@@ -1,0 +1,42 @@
+<html manifest="conduitfill.appcache" lang="en">
+    <head>
+        <title>Conduit Fill</title>
+        <meta name='viewport' content='initial-scale=1, width=device-width'>
+        <link rel="icon" href="img/appicon.png" type="image/x-icon" />
+        <link rel="apple-touch-icon" sizes="128x128" href="img/appicon.png" />
+        <link rel="apple-touch-icon-precomosed" sizes="128x128" href="img/appicon.png" />
+        <link rel="apple-touch-startup-image" href="img/appicon.png" />
+        <meta charset="utf-8" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <link rel='stylesheet' href='css/style.css' type='text/css' media='all'>
+        <script src="js/script.js"></script>
+    </head>
+<body onLoad="addoption_list();">
+
+<div id="container">
+
+<h1>Conduit Fill</h1>
+
+<p>
+    <label for="conduitType">Conduit Type</label>
+    <select id="conduitType" onchange="showTheDamnNumber(this.value);"></select>
+</p>
+
+<p>
+    <label for="tradeSize">Conduit Size</label>
+    <select id="tradeSize"onchange="showTheDamnNumber(this.value);"></select>
+</p>
+
+<p>
+    <label for="wireSize">Wire Size</label>
+    <select id="wireSize" onchange="showTheDamnNumber(this.value);"></select>
+</p>
+
+<h1 id="fillNumber"></h1>
+
+</div>
+</body>
+</html>
+
