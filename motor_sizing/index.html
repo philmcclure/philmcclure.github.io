@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Motor Sizing</title>
+        <meta name='viewport' content='initial-scale=1, width=device-width'>
+        <link rel="icon" href="img/appicon.png" type="image/x-icon" />
+        <link rel="apple-touch-icon" sizes="128x128" href="img/appicon.png" />
+        <link rel="apple-touch-icon-precomosed" sizes="128x128" href="img/appicon.png" />
+        <link rel="apple-touch-startup-image" href="img/appicon.png" />
+        <meta charset="utf-8" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <link rel='stylesheet' href='css/style.css' type='text/css' media='all'>
+        <script src="js/script.js"></script>
+    </head>
+<body onload="addoption_list();">
+
+<div id="container">
+
+<h1>Motor Sizing</h1>
+
+<select id="acdc" onchange="showTheDamnNumber(this.value);"></select>
+<select id="phase" onchange="showTheDamnNumber(this.value);"></select>
+<select id="voltage" onchange="showTheDamnNumber(this.value);"></select>
+<select id="horsePower" onchange="showTheDamnNumber(this.value);"></select>
+<select id="powerFactor" onchange="showTheDamnNumber(this.value);"></select>
+
+<h1 id="currentNumber"></h1>
+
+</div>
+</body>
+</html>
+
