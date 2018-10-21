@@ -7,10 +7,13 @@
 
 select {
     height: 6vh;
+    width: 100%;
+    margin-bottom: 2vh;
 }
 
 h1 { 
     text-align: center;
+    font-size: 1.5em;
 }
 
 #fillNumber {

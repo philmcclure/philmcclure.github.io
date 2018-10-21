@@ -36,8 +36,14 @@ var dc200     = ["", "", "", "675", "330", "294"];
 
 // single-phase AC motor hp/voltage/currents
 
-var ac1hp   = ["1/6", "1/4", "1/3", "1/2", "3/4", "1", "1 1/2", "2", "3", "5", "7 1/2", "10"];
+var ac1hp     = ["1/6", "1/4", "1/3", "1/2", "3/4", "1", "1 1/2", "2", "3", "5", "7 1/2", "10"];
 var ac1volt   = ["115", "200", "208", "230"];
+var ac1115cb  = ["15", "15", "15", "20", "25", "30", "40", "50", "70", "90", "110", ""]; 
+var ac1115fs  = ["6.25", "9", "10", "15", "20", "25", "30", "30", "50", "80", "100", ""];
+var ac1115ol  = ["B4.85", "B6.25", "B8.20", "B11.5", "B15.5", "B19.5", "B28.0", "B36.", "B40.", "CC64.3", "CC87.7", ""];
+var ac1230cb  = ["14", "15", "15", "15", "15", "15", "20", "25", "35", "60", "80", "90"];
+var ac1230fs  = ["3.2", "4.5", "5.6", "7", "10", "12", "15", "20", "25", "40", "60", "60"];
+var ac1230ol  = ["B2.40", "B3.30", "B4.15", "B5.50", "B7.70", "B9.10", "B14.", "B17.5", "B22.", "B28.0", "B40.", "CC50.1"];
 var ac_1_1_6  = ["4.4", "2.5", "2.4", "2.2"];
 var ac_1_1_4  = ["5.8", "3.3", "3.2", "2.9"];
 var ac_1_1_3  = ["7.2", "4.1", "4.0", "3.6"];
@@ -83,10 +89,6 @@ var ac_3_400  = ["", "", "", "", "477", "382", "95"];
 var ac_3_450  = ["", "", "", "", "515", "412", "103"];
 var ac_3_500  = ["", "", "", "", "590", "472", "118"];
 
-// power factor
-
-var pf     = ["100%", "90%", "80%"];
-var pf_val = ["1", "1.1", "1.25"];
 
 // function to fill select lists
 
@@ -104,7 +106,6 @@ function showTheDamnNumber(val) {
     var phase_type   = document.getElementById("phase").value;
     var voltage_sel  = document.getElementById("voltage").value;
     var horse_power  = document.getElementById("horsePower").value;
-    var power_factor = document.getElementById("powerFactor").value;
 	
 if (val == "DC" || val == "AC" ) {
     if (voltage_type == "DC") {
@@ -189,12 +190,10 @@ var voltage_type = document.getElementById("acdc").value;
 var phase_type   = document.getElementById("phase").value;
 var voltage_sel  = document.getElementById("voltage").value;
 var horse_power  = document.getElementById("horsePower").value;
-var power_factor = document.getElementById("powerFactor").value;
 var vtype_lower  = voltage_type.toLowerCase();
 var phase        = phase_type.slice(0, -1);
 var hpwr_nospace = horse_power.replace(" ", "");
 var hpwr_final   = hpwr_nospace.replace("/", "_");
-var pf_final     = pf_val[pf.indexOf(power_factor)];
 
 if (voltage_type == "DC") {
     var vvalue = dcvolt.indexOf(voltage_sel);
@@ -202,19 +201,43 @@ if (voltage_type == "DC") {
 } else if (voltage_type == "AC" && phase_type == "1ϕ") {
     var vvalue = ac1volt.indexOf(voltage_sel);
     var motor_array = vtype_lower + '_' + phase + '_' + hpwr_final;
+    var horse_power  = document.getElementById("horsePower").value;
+    var hpvalue      = ac1hp.indexOf(horse_power);
+    if (voltage_sel == "115") {
+        var cbreaker = ac1115cb[hpvalue];
+        var fused = ac1115fs[hpvalue];
+        var oloads = ac1115ol[hpvalue];
+    } else if (voltage_sel == "230") {
+        var cbreaker = ac1230cb[hpvalue];
+        var fused = ac1230fs[hpvalue];
+        var oloads = ac1230ol[hpvalue];
+    } else {
+        var cbreaker = "";
+        var fused = "";
+        var oloads = "";
+    }
 } else {
     var vvalue = ac3volt.indexOf(voltage_sel);
     var motor_array = vtype_lower + '_' + phase + '_' + hpwr_final;
 }
 
 var output = window[motor_array][vvalue];
-var output_final = ((output * 10) * (pf_final * 10 )) / 100;
 
 if (output == null || output == "") {
-    var output_final = "No Such Motor";
+    var output = "No Such Motor";
 }
 
-document.getElementById("currentNumber").innerHTML = output_final;
+document.getElementById("currentNumber").innerHTML = 'Full load current: ' + output;
+
+if (cbreaker == undefined || voltage_sel == 200 || voltage_sel == 208) {
+    document.getElementById("breaker").innerHTML = '';
+    document.getElementById("fuses").innerHTML = '';
+    document.getElementById("overloads").innerHTML = '';
+} else {
+    document.getElementById("breaker").innerHTML = 'Circuit Breaker: ' + cbreaker + 'A';
+    document.getElementById("fuses").innerHTML = 'Fuses: ' + fused + 'A';
+    document.getElementById("overloads").innerHTML = 'Overloads: ' + oloads;
+}
 }
 
 // remove select items
@@ -258,12 +281,5 @@ if (horsepower) {
         addOption(horsepower, ac1hp[i], ac1hp[i]);
     }
 }
-
-var pwrfactor = document.getElementById("powerFactor");
-if (pwrfactor) {
-    for (var i=0; i < pf.length; ++i) {
-        addOption(pwrfactor, pf[i], pf[i]);
-    }
-}
-
+showTheDamnNumber();
 }

@@ -19,13 +19,22 @@
 
 <h1>Motor Sizing</h1>
 
+<label for="acdc">Polarity</label>
 <select id="acdc" onchange="showTheDamnNumber(this.value);"></select>
-<select id="phase" onchange="showTheDamnNumber(this.value);"></select>
-<select id="voltage" onchange="showTheDamnNumber(this.value);"></select>
-<select id="horsePower" onchange="showTheDamnNumber(this.value);"></select>
-<select id="powerFactor" onchange="showTheDamnNumber(this.value);"></select>
 
-<h1 id="currentNumber"></h1>
+<label for="phase" id="phase_label">Number of Phases</label>
+<select id="phase" onchange="showTheDamnNumber(this.value);"></select>
+
+<label for="voltage">Voltage</label>
+<select id="voltage" onchange="showTheDamnNumber(this.value);"></select>
+
+<label for="horsePower">Horsepower</label>
+<select id="horsePower" onchange="showTheDamnNumber(this.value);"></select>
+
+<h1 id="currentNumber"></h1> <!-- full load current              -->
+<h1 id="breaker"></h1>       <!-- circuit breaker                -->
+<h1 id="fuses"></h1>         <!-- dual-element fuse size in amps -->
+<h1 id="overloads"><h1>      <!-- square D overload sizes        -->
 
 </div>
 </body>
