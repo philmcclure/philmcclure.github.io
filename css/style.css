@@ -1,0 +1,29 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+#container {
+    flex: 1;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    text-shadow: 2px 2px #ccc;
+    background-color: #999;
+    padding: 2vh;
+    margin: 2vh 0 2vh 0;
+    text-transform: uppercase;
+    color: black;
+    font: 3vh sans-serif;
+}
+
+a:hover {
+    box-shadow: 2px 2px #000;
+}
