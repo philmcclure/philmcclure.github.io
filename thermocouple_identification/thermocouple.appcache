@@ -1,8 +1,9 @@
 CACHE MANIFEST
-#v1.0 2018-10-23
+#v1.1 2018-10-23
 index.html
 js/script.js
 css/style.css
+img/appicon.png
 img/j.png
 img/j-iec.png
 img/k.png
