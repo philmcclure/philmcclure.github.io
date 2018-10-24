@@ -1,0 +1,40 @@
+<html manifest="thermocouple.appcache" lang="en">
+    <head>
+        <title>Thermocouple Identification</title>
+        <meta name='viewport' content='initial-scale=1, width=device-width'>
+        <link rel="icon" href="img/appicon.png" type="image/x-icon" />
+        <link rel="apple-touch-icon" sizes="128x128" href="img/appicon.png" />
+        <link rel="apple-touch-icon-precomosed" sizes="128x128" href="img/appicon.png" />
+        <link rel="apple-touch-startup-image" href="img/appicon.png" />
+        <meta charset="utf-8" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <link rel='stylesheet' href='css/style.css' type='text/css' media='all'>
+        <script src="js/script.js"></script>
+    </head>
+<body onLoad="addoption_list();">
+
+<div id="container">
+
+<h1>Thermocouple Identification</h1>
+
+<label for="thermocouple">Thermocouple Type</label>
+<select id="thermocouple" onchange="showTheDamnNumber(this.value);"></select>
+<img src="img/k.png" id="grade"> <img src="img/k-iec.png" id="iec584_3">
+<div id="grade">Thermocouple Color Code</div> <div id="iec584_3">IEC 584-3 Color Code</div>
+
+<div id="maxUsefulTempFahr"></div>
+<div id="maxGradeTempFahr"></div>
+<div id="pluslead"></div>
+<div id="neglead"></div>
+<div id="emfOverMaxTempRange"></div>
+<div id="standardLimitError"></div>
+<div id="specialLimitError"></div>
+<div id="comments"></div>
+
+
+</div>
+</body>
+</html>
+
