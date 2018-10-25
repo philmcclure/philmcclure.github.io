@@ -75,8 +75,8 @@ function showTheDamnNumber() {
         document.getElementById("pluslead").innerHTML            = '<strong>+ Lead: </strong>' + r[0];
         document.getElementById("neglead").innerHTML             = '<strong>- Lead: </strong>' + r[1];
         document.getElementById("grade").src                     = 'img/' + r[2];
-        document.getElementById("maxUsefulTempFahr").innerHTML   = '<strong>Max Useful Temp Range: </strong>' + r[3] + ' / ' + n[4];
-        document.getElementById("maxGradeTempFahr").innerHTML    = '<strong>Max Grade Temp Range: </strong>' + r[5] + ' / ' + n[6];
+        document.getElementById("maxUsefulTempFahr").innerHTML   = '<strong>Max Useful Temp Range: </strong>' + r[3] + ' / ' + r[4];
+        document.getElementById("maxGradeTempFahr").innerHTML    = '<strong>Max Grade Temp Range: </strong>' + r[5] + ' / ' + r[6];
         document.getElementById("emfOverMaxTempRange").innerHTML = '<strong>EMF (mV) Over Max Temp Range: </strong>' + r[7];
         document.getElementById("standardLimitError").innerHTML  = '<strong>Standard Limits of Error: </strong>' + r[8];
         document.getElementById("specialLimitError").innerHTML   = '<strong>Special Limits of Error: </strong>' + r[9];
@@ -88,8 +88,8 @@ function showTheDamnNumber() {
         document.getElementById("pluslead").innerHTML            = '<strong>+ Lead: </strong>' + s[0];
         document.getElementById("neglead").innerHTML             = '<strong>- Lead: </strong>' + s[1];
         document.getElementById("grade").src                     = 'img/' + s[2];
-        document.getElementById("maxUsefulTempFahr").innerHTML   = '<strong>Max Useful Temp Range: </strong>' + s[3] + ' / ' + n[4];
-        document.getElementById("maxGradeTempFahr").innerHTML    = '<strong>Max Grade Temp Range: </strong>' + s[5] + ' / ' + n[6];
+        document.getElementById("maxUsefulTempFahr").innerHTML   = '<strong>Max Useful Temp Range: </strong>' + s[3] + ' / ' + s[4];
+        document.getElementById("maxGradeTempFahr").innerHTML    = '<strong>Max Grade Temp Range: </strong>' + s[5] + ' / ' + s[6];
         document.getElementById("emfOverMaxTempRange").innerHTML = '<strong>EMF (mV) Over Max Temp Range: </strong>' + s[7];
         document.getElementById("standardLimitError").innerHTML  = '<strong>Standard Limits of Error: </strong>' + s[8];
         document.getElementById("specialLimitError").innerHTML   = '<strong>Special Limits of Error: </strong>' + s[9];
