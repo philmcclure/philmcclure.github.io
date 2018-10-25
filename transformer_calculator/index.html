@@ -1,0 +1,47 @@
+<html manifest="transformer.appcache" lang="en">
+    <head>
+        <title>Transformer Calculator</title>
+        <meta name='viewport' content='initial-scale=1, width=device-width'>
+        <link rel="icon" href="img/appicon.png" type="image/x-icon" />
+        <link rel="apple-touch-icon" sizes="128x128" href="img/appicon.png" />
+        <link rel="apple-touch-icon-precomosed" sizes="128x128" href="img/appicon.png" />
+        <link rel="apple-touch-startup-image" href="img/appicon.png" />
+        <meta charset="utf-8" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <link rel='stylesheet' href='css/style.css' type='text/css' media='all'>
+        <script src="js/script.js"></script>
+    </head>
+<body>
+
+<div id="container">
+
+<h1>Motor Sizing</h1>
+
+<label for="phase" id="phase_label">Number of Phases</label>
+<select id="phase">
+    <option value="1">"1ϕ"</option>
+    <option value="2">"3ϕ"</option>
+</select>
+
+<form name="calc" id="calc">
+    <label for="kva">KVa</label>
+    <input type="text" id="kva" value="" onClick="clearnotify();"></input>
+    
+    <label for="voltage">Voltage</label>
+    <input type="text" id="voltage" value="" onClick="clearnotify();"></input>
+    
+    <label for="amps">Amps</label>
+    <input type="text" id="amps" value="" onClick="clearnotify();"></input>
+
+    <input type="button" id="submit" value="Calculate" onClick="calculator();">
+    <input type="button" id="clear" value="Clear" onClick="document.calc.kva.value=0;document.calc.voltage.value=0;document.calc.amps.value=0;">
+</form>
+
+<h1 id="notify"></h1>
+
+</div>
+</body>
+</html>
+
