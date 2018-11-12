@@ -39,7 +39,8 @@ console.log(new_gas_set);
 document.getElementById("mfg").innerHTML     = model;
 document.getElementById("maxCFH").innerHTML  = "Max CFH: " + max_cfh;
 document.getElementById("orifice").innerHTML = "Orifice: " + orifice_size;
-if (new_gas_osi != "0") {
+console.log(new_gas_osi);
+if (new_gas_osi) {
     document.getElementById("notify").innerHTML  = "New Gas Setting: <br>" + new_gas_set + "\"WC or " + new_gas_osi + "OSI";
 }
 }
