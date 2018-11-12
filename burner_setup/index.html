@@ -1,0 +1,50 @@
+<html manifest="burner.appcache" lang="en">
+    <head>
+        <title>Burner Setup</title>
+        <meta name='viewport' content='initial-scale=1, width=device-width'>
+        <link rel="icon" href="img/appicon.png" type="image/x-icon" />
+        <link rel="apple-touch-icon" sizes="128x128" href="img/appicon.png" />
+        <link rel="apple-touch-icon-precomosed" sizes="128x128" href="img/appicon.png" />
+        <link rel="apple-touch-startup-image" href="img/appicon.png" />
+        <meta charset="utf-8" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <link rel='stylesheet' href='css/style.css' type='text/css' media='all'>
+        <script src="js/script.js"></script>
+    </head>
+<body onload="addoption_list();">
+
+<div id="container">
+
+<h1 id="title">Burner Setup</h1>
+
+<p>
+    <label for="burnerSelect">Burner Select</label>
+    <select id="burnerSelect" onChange="showTheDamnNumber(this.value);"></select>
+</p>
+
+<h1 id="mfg"></h1>
+<h1 id="maxCFH"></h1>
+<h1 id="orifice"></h1>
+<label for="measuredAIR">Measured Air (WC)</label>
+<input id="measuredAIR" onChange="showTheDamnNumber(this.value);"></input>
+
+<label for="measuredGAS">Measured Gas (WC)</label>
+<input id="measuredGAS" onChange="showTheDamnNumber(this.value);"></input>
+
+<label for="excessAIR">Excess Air (%)</label>
+<input id="excessAIR" onChange="showTheDamnNumber(this.value);"></input>
+
+<h1 id="notify"></h1>
+
+</div>
+<footer id="footer">
+    <p>
+    <strong>CFH: </strong> Cubic Feet per Hour<br>
+    <strong>OSI: </strong> Ounces of air per inch<sup>2</sup><br>
+    <strong>WC:  </strong> Water Columns</p>
+</footer>
+</body>
+</html>
+
