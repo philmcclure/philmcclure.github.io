@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#v0.2 2019-04-01
+#v0.3 2019-05-13
 /thermocouple_identification/img/r.png
 /thermocouple_identification/img/e-iec.png
 /thermocouple_identification/img/j.png
@@ -22,10 +22,6 @@ CACHE MANIFEST
 /conduit_fill/index.html
 /conduit_fill/js/script.js
 /conduit_fill/css/style.css
-/burner_setup/img/appicon.png
-/burner_setup/index.html
-/burner_setup/js/script.js
-/burner_setup/css/style.css
 /transformer_calculator/img/appicon.png
 /transformer_calculator/index.html
 /transformer_calculator/js/script.js
@@ -34,6 +30,14 @@ CACHE MANIFEST
 /motor_sizing/index.html
 /motor_sizing/js/script.js
 /motor_sizing/css/style.css
+/parts_list/img/appicon.png
+/parts_list/js/fuse.js
+/parts_list/js/jquery.js
+/parts_list/js/jquery.mark.js
+/parts_list/js/search.js
+/parts_list/data/parts_list.json
+/parts_list/css/style.css
+/parts_list/index.html
 css/style.css
 img/appicon.png
 index.html
