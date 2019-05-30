@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#v0.6 2019-05-13
+#v0.7 2019-05-30
 /thermocouple_identification/img/r.png
 /thermocouple_identification/img/e-iec.png
 /thermocouple_identification/img/j.png
@@ -30,14 +30,22 @@ CACHE MANIFEST
 /motor_sizing/index.html
 /motor_sizing/js/script.js
 /motor_sizing/css/style.css
+/parts_list/css/style.css
+/parts_list/data/parts_list.json
 /parts_list/img/appicon.png
 /parts_list/js/fuse.js
 /parts_list/js/jquery.js
 /parts_list/js/jquery.mark.js
 /parts_list/js/search.js
-/parts_list/data/parts_list.json
-/parts_list/css/style.css
 /parts_list/index.html
+/equipment_list/css/style.css
+/equipment_list/data/equipment_list.json
+/equipment_list/img/appicon.png
+/equipment_list/js/fues.js
+/equipment_list/js/jquery.js
+/equipment_list/js/jquery.mark.js
+/equipment_list/js/search.js
+/equipment_list/index.html
 css/style.css
 img/appicon.png
 index.html
