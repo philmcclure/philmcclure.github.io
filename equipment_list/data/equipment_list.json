@@ -1,4696 +1,4696 @@
 [
   {
-    "Number": "01-006",
+    "Numberz": "01-006",
     "Description": "TEMP. RECORDER  (INDUCTION FURNACE)",
     "Location": "MELTING"
   },
   {
-    "Number": "01-007",
+    "Numberz": "01-007",
     "Description": "CHARGE BUCKET  #5",
     "Location": "MELTING"
   },
   {
-    "Number": "01-010",
+    "Numberz": "01-010",
     "Description": "CHARGE BUCKET #4",
     "Location": "CHARGE AREA"
   },
   {
-    "Number": "01-013",
+    "Numberz": "01-013",
     "Description": "#1 CRANE",
     "Location": "#1 ARC FUR"
   },
   {
-    "Number": "02-001",
+    "Numberz": "02-001",
     "Description": "ARC FURNACE #2",
     "Location": "MELTING"
   },
   {
-    "Number": "02-002B",
+    "Numberz": "02-002B",
     "Description": "#2 BAGHOUSE, SLY",
     "Location": "#2 ARC"
   },
   {
-    "Number": "02-004",
+    "Numberz": "02-004",
     "Description": "AIR COMPRESSOR",
     "Location": "MELTING #2"
   },
   {
-    "Number": "02-005",
+    "Numberz": "02-005",
     "Description": "SCALES",
     "Location": "#2 ARC FUR"
   },
   {
-    "Number": "02-006",
+    "Numberz": "02-006",
     "Description": "TEMP. RECORDER",
     "Location": "#2 ARC FUR"
   },
   {
-    "Number": "02-007",
+    "Numberz": "02-007",
     "Description": "CHARGE BUCKET #2",
     "Location": "MELTING"
   },
   {
-    "Number": "02-008",
+    "Numberz": "02-008",
     "Description": "ROOF FAN",
     "Location": "#2 ARC"
   },
   {
-    "Number": "02-009",
+    "Numberz": "02-009",
     "Description": "SCALE ARC FURNACE PLATFORM TOLEDO",
     "Location": "#2 ARC FURN."
   },
   {
-    "Number": "02-010",
+    "Numberz": "02-010",
     "Description": "ENVIROBLEND",
     "Location": "#2 ARC FURN."
   },
   {
-    "Number": "02-011",
+    "Numberz": "02-011",
     "Description": "DESHAZO 15 TON CRANE",
     "Location": "#2 ARC FURN."
   },
   {
-    "Number": "02-012",
+    "Numberz": "02-012",
     "Description": "#2 ARC COOLING TOWER",
     "Location": "#2 ARC FURN."
   },
   {
-    "Number": "02-500",
+    "Numberz": "02-500",
     "Description": "#2 ARC FURNACE DEPT",
     "Location": "#2 ARC"
   },
   {
-    "Number": "02-6666",
+    "Numberz": "02-6666",
     "Description": "LEAN PROJECT FOR #2 ARC FURNACE",
     "Location": "#2 ARC FUR"
   },
   {
-    "Number": "02-7777",
+    "Numberz": "02-7777",
     "Description": "SAFETY",
     "Location": "#2 ARC FUR"
   },
   {
-    "Number": "02-8888",
+    "Numberz": "02-8888",
     "Description": "MODIFICATION",
     "Location": "#2 ARC FUR"
   },
   {
-    "Number": "02-9999",
+    "Numberz": "02-9999",
     "Description": "EMPLOYEE ASSISTANCE",
     "Location": "#2 ARC FUR"
   },
   {
-    "Number": "03-003",
+    "Numberz": "03-003",
     "Description": "CRANE #3",
     "Location": "MELTING"
   },
   {
-    "Number": "03-005",
+    "Numberz": "03-005",
     "Description": "SCALE SCORE BOARD",
     "Location": "MELTING"
   },
   {
-    "Number": "03-006",
+    "Numberz": "03-006",
     "Description": "DISA CHARGE SCALE",
     "Location": "MELTING"
   },
   {
-    "Number": "03-007",
+    "Numberz": "03-007",
     "Description": "CHARGE BUCKET #3",
     "Location": "MELTING"
   },
   {
-    "Number": "03-011",
+    "Numberz": "03-011",
     "Description": "SCALE",
     "Location": "CHARGE AREA"
   },
   {
-    "Number": "03-012",
+    "Numberz": "03-012",
     "Description": "# 8 ENVIROBLEND",
     "Location": "#8 INDUCTION FURN."
   },
   {
-    "Number": "03-014",
+    "Numberz": "03-014",
     "Description": "CHARGE BUCKET #6",
     "Location": "CHARGE AREA"
   },
   {
-    "Number": "03-015",
+    "Numberz": "03-015",
     "Description": "#7 iNDUCTION FURNACE (EAST)",
     "Location": "MELTING"
   },
   {
-    "Number": "03-016",
+    "Numberz": "03-016",
     "Description": "#8 INDUCTION FURNACE (WEST)",
     "Location": "MELTING"
   },
   {
-    "Number": "03-017",
+    "Numberz": "03-017",
     "Description": "#7 FURNACE CHARGE VIBRATOR (EAST)",
     "Location": "MELTING"
   },
   {
-    "Number": "03-018",
+    "Numberz": "03-018",
     "Description": "#8 FURNACE CHARGE VIBRATOR (WEST)",
     "Location": "MELTING"
   },
   {
-    "Number": "03-019",
+    "Numberz": "03-019",
     "Description": "POWER SUPPLY FOR INDUCTION FURNACE #7 & #8",
     "Location": "MELTING"
   },
   {
-    "Number": "03-020",
+    "Numberz": "03-020",
     "Description": "COOLING TOWER #7 & #8",
     "Location": "MELTING"
   },
   {
-    "Number": "03-021",
+    "Numberz": "03-021",
     "Description": "PUMP- (NEW INDUCTION FURNACE)  SOUTH",
     "Location": "MELTING"
   },
   {
-    "Number": "03-022",
+    "Numberz": "03-022",
     "Description": "MOTORIZED JIB CRANE@ INDUCTION FURNACES 7 & 8",
     "Location": "MELTING"
   },
   {
-    "Number": "03-023",
+    "Numberz": "03-023",
     "Description": "PUMP- (NEW INDUCTION FURNACE)  NORTH",
     "Location": "MELTING"
   },
   {
-    "Number": "03-024",
+    "Numberz": "03-024",
     "Description": "CHARGE HOPPER #1 FOR INDUCTION FURNACE",
     "Location": "MELTING"
   },
   {
-    "Number": "03-025",
+    "Numberz": "03-025",
     "Description": "CHARGE HOPPER #2 FOR INDUCTION FURNACE",
     "Location": "MELTING"
   },
   {
-    "Number": "03-026",
+    "Numberz": "03-026",
     "Description": "#7 INDUCTION FURNACE BAGHOUSE",
     "Location": "MELTING"
   },
   {
-    "Number": "03-027",
+    "Numberz": "03-027",
     "Description": "#8 INDUCTION FURNACE BAGHOUSE",
     "Location": "MELTING"
   },
   {
-    "Number": "03-028",
+    "Numberz": "03-028",
     "Description": "#7 INDUCTION ENVIROBLEND",
     "Location": "#7 INDUCTION FURNACE"
   },
   {
-    "Number": "03-029",
+    "Numberz": "03-029",
     "Description": "SCALES, DIGITAL (INDUCTION FURNACE)",
     "Location": "MELTING"
   },
   {
-    "Number": "03-2M",
+    "Numberz": "03-2M",
     "Description": "",
     "Location": "-"
   },
   {
-    "Number": "03-500",
+    "Numberz": "03-500",
     "Description": "INDUCTION FURNACE DEPT.",
     "Location": "INDUCTION FURNACE"
   },
   {
-    "Number": "03-6666",
+    "Numberz": "03-6666",
     "Description": "LEAN PROJECT INDUCTION FURNACE",
     "Location": "INDUCTION FURNACE"
   },
   {
-    "Number": "03-7777",
+    "Numberz": "03-7777",
     "Description": "SAFETY",
     "Location": "INDUCTION FURNACE"
   },
   {
-    "Number": "03-8888",
+    "Numberz": "03-8888",
     "Description": "MODIFICATION",
     "Location": "INDUCTION FURNACE"
   },
   {
-    "Number": "03-9999",
+    "Numberz": "03-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "INDUCTION FURNACE"
   },
   {
-    "Number": "04-004",
+    "Numberz": "04-004",
     "Description": "CHARGE SCALE",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-005",
+    "Numberz": "04-005",
     "Description": "TEMPERATURE RECORDER",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-006",
+    "Numberz": "04-006",
     "Description": "SCALE",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-007",
+    "Numberz": "04-007",
     "Description": "ABB BAGHOUSE",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-008",
+    "Numberz": "04-008",
     "Description": "PUMP",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-010",
+    "Numberz": "04-010",
     "Description": "#5 INDUCTION FURNACE (EAST)",
     "Location": "NO BAKE"
   },
   {
-    "Number": "04-011",
+    "Numberz": "04-011",
     "Description": "#6 INDUCTION FURNACE (WEST)",
     "Location": "NO BAKE"
   },
   {
-    "Number": "04-012",
+    "Numberz": "04-012",
     "Description": "#5 FURNACE VIBRATOR (EAST)",
     "Location": "NO BAKE"
   },
   {
-    "Number": "04-013",
+    "Numberz": "04-013",
     "Description": "#6 FURNACE VIBRATOR (WEST)",
     "Location": "NO BAKE"
   },
   {
-    "Number": "04-014",
+    "Numberz": "04-014",
     "Description": "POWER SUPPLY FOR #5 & 6 FURNACES",
     "Location": "NO BAKE"
   },
   {
-    "Number": "04-015",
+    "Numberz": "04-015",
     "Description": "COOLING TOWER",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-017",
+    "Numberz": "04-017",
     "Description": "MOTORIZED JIB CRANE @ ABB",
     "Location": "-"
   },
   {
-    "Number": "04-018",
+    "Numberz": "04-018",
     "Description": "ENIROBLEND FEEDER EAST",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-019",
+    "Numberz": "04-019",
     "Description": "ENVIROBLEND FEEDER WEST",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-020",
+    "Numberz": "04-020",
     "Description": "BAGHOUSE  BLOWER EAST",
     "Location": "NO BAKE"
   },
   {
-    "Number": "04-021",
+    "Numberz": "04-021",
     "Description": "BAGHOUSE BLOWER WEST",
     "Location": "NO BAKE"
   },
   {
-    "Number": "04-022",
+    "Numberz": "04-022",
     "Description": "BAGHOUSE EAST",
     "Location": "NO BAKE"
   },
   {
-    "Number": "04-023",
+    "Numberz": "04-023",
     "Description": "BAGHOUSE WEST",
     "Location": "NO BAKE"
   },
   {
-    "Number": "04-500",
+    "Numberz": "04-500",
     "Description": "INDUCTION FURNACE DEPT",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-6666",
+    "Numberz": "04-6666",
     "Description": "LEAN PROJECT",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-7777",
+    "Numberz": "04-7777",
     "Description": "SAFETY",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-8888",
+    "Numberz": "04-8888",
     "Description": "MODIFICATION",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "04-9999",
+    "Numberz": "04-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "05-001",
+    "Numberz": "05-001",
     "Description": "LADLE #1",
     "Location": "MELTING"
   },
   {
-    "Number": "05-002",
+    "Numberz": "05-002",
     "Description": "LADLE #2",
     "Location": "MELTING"
   },
   {
-    "Number": "05-003",
+    "Numberz": "05-003",
     "Description": "LADLE #5",
     "Location": "MELTING"
   },
   {
-    "Number": "05-004",
+    "Numberz": "05-004",
     "Description": "LADLE #7",
     "Location": "MELTING"
   },
   {
-    "Number": "05-005",
+    "Numberz": "05-005",
     "Description": "LADLE #9",
     "Location": "MELTING"
   },
   {
-    "Number": "05-008",
+    "Numberz": "05-008",
     "Description": "MORTAR MIXER",
     "Location": "LADLE REP."
   },
   {
-    "Number": "05-009",
+    "Numberz": "05-009",
     "Description": "MORTAR MIXER",
     "Location": "LADLE REP."
   },
   {
-    "Number": "05-011",
+    "Numberz": "05-011",
     "Description": "LADLE #10",
     "Location": "NO BAKE"
   },
   {
-    "Number": "05-013",
+    "Numberz": "05-013",
     "Description": "LADLE  #12",
     "Location": "NO BAKE"
   },
   {
-    "Number": "05-014",
+    "Numberz": "05-014",
     "Description": "LADLE  #13",
     "Location": "NO BAKE"
   },
   {
-    "Number": "05-015",
+    "Numberz": "05-015",
     "Description": "LADLE #14",
     "Location": "MELTING"
   },
   {
-    "Number": "05-016",
+    "Numberz": "05-016",
     "Description": "SUMP PUMP",
     "Location": "LADLE REP."
   },
   {
-    "Number": "05-017",
+    "Numberz": "05-017",
     "Description": "STONE MORTAR MIXER  (CHAMPION)",
     "Location": "LADLE REP."
   },
   {
-    "Number": "05-018",
+    "Numberz": "05-018",
     "Description": "LADLE #3",
     "Location": "LADLE REP."
   },
   {
-    "Number": "05-019",
+    "Numberz": "05-019",
     "Description": "LADLE #4",
     "Location": "LADLE REP."
   },
   {
-    "Number": "05-020",
+    "Numberz": "05-020",
     "Description": "LADLE #15",
     "Location": "MELTING"
   },
   {
-    "Number": "05-500",
+    "Numberz": "05-500",
     "Description": "LADLE REPAIR DEPT",
     "Location": "LADLE REP."
   },
   {
-    "Number": "05-6666",
+    "Numberz": "05-6666",
     "Description": "LADLE REPAIR DEPT",
     "Location": "LADLE REP."
   },
   {
-    "Number": "05-7777",
+    "Numberz": "05-7777",
     "Description": "SAFETY",
     "Location": "LADLE REP."
   },
   {
-    "Number": "05-8888",
+    "Numberz": "05-8888",
     "Description": "MODIFICATION",
     "Location": "LADLE REP."
   },
   {
-    "Number": "05-9999",
+    "Numberz": "05-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "LADLE REP."
   },
   {
-    "Number": "06-009",
+    "Numberz": "06-009",
     "Description": "TEMP. RECORDER",
     "Location": "MELTING"
   },
   {
-    "Number": "06-010",
+    "Numberz": "06-010",
     "Description": "TEMP RECORDER",
     "Location": "MELTING"
   },
   {
-    "Number": "06-017",
+    "Numberz": "06-017",
     "Description": "SERIES 1098 55\" - 2 X 2 TAPERED LADLE",
     "Location": "MELTING DEPT."
   },
   {
-    "Number": "06-020",
+    "Numberz": "06-020",
     "Description": "ALUMINUM WIRE FEEDER",
     "Location": "DISA"
   },
   {
-    "Number": "06-021",
+    "Numberz": "06-021",
     "Description": "INDUCTOTHERM HOLDING FURNACE",
     "Location": "MELTING DEPT."
   },
   {
-    "Number": "06-022",
+    "Numberz": "06-022",
     "Description": "INDUCTOTHERM HYDRAULIC UNIT",
     "Location": "MELTING DEPT."
   },
   {
-    "Number": "06-023",
+    "Numberz": "06-023",
     "Description": "INDUCTOTHERM POWER SUPPLY",
     "Location": "MELTING DEPT."
   },
   {
-    "Number": "06-024",
+    "Numberz": "06-024",
     "Description": "INDUCTOTHERM X-Y MOVEMENT SYSTEM",
     "Location": "MELTING DEPT."
   },
   {
-    "Number": "06-025",
+    "Numberz": "06-025",
     "Description": "SERT POURING CONTROL",
     "Location": "MELTING DEPT."
   },
   {
-    "Number": "06-026",
+    "Numberz": "06-026",
     "Description": "STOPPER ROD ACTUATOR ASSEMBLY",
     "Location": "MELTING DEPT."
   },
   {
-    "Number": "06-027",
+    "Numberz": "06-027",
     "Description": "NITROGEN GENERATOR FOR INDUCTOTHERM",
     "Location": "MELTING DEPT."
   },
   {
-    "Number": "06-028",
+    "Numberz": "06-028",
     "Description": "VIBCO VIBRATOR",
     "Location": "MELTING DEPT."
   },
   {
-    "Number": "06-6666",
+    "Numberz": "06-6666",
     "Description": "6S FOR DISA POURING DEPT.",
     "Location": "LIQUIMETRICS"
   },
   {
-    "Number": "06-7777",
+    "Numberz": "06-7777",
     "Description": "SAFETY",
     "Location": "LIQUIMETRICS"
   },
   {
-    "Number": "06-8888",
+    "Numberz": "06-8888",
     "Description": "MODIFICATION",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "06-9999",
+    "Numberz": "06-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "07-005",
+    "Numberz": "07-005",
     "Description": "EYE WASH",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "07-006",
+    "Numberz": "07-006",
     "Description": "PATTERN CLEANER",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "07-007",
+    "Numberz": "07-007",
     "Description": "CORE CURING OVEN",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "07-500",
+    "Numberz": "07-500",
     "Description": "CORE DEPT",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "07-6666",
+    "Numberz": "07-6666",
     "Description": "LEAN WORK IN CORE ROOM",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "07-7777",
+    "Numberz": "07-7777",
     "Description": "SAFETY",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "07-8888",
+    "Numberz": "07-8888",
     "Description": "MODIFICATION",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "07-9999",
+    "Numberz": "07-9999",
     "Description": "EMPLOYEE   ASSISTANCE",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "08-001",
+    "Numberz": "08-001",
     "Description": "KLOSTER CORE MIXER",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "08-002",
+    "Numberz": "08-002",
     "Description": "DUST COLLECTOR",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "08-003",
+    "Numberz": "08-003",
     "Description": "CORE SHOOTER",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-004",
+    "Numberz": "08-004",
     "Description": "SAND MIXER",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-005",
+    "Numberz": "08-005",
     "Description": "EAST SAND HEATER",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-006",
+    "Numberz": "08-006",
     "Description": "WEST SAND HEATER",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-007",
+    "Numberz": "08-007",
     "Description": "SAND BINS AND FRAME",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-008",
+    "Numberz": "08-008",
     "Description": "BIN VENT",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-009",
+    "Numberz": "08-009",
     "Description": "BULK BAG UNLOADER AND FRAME",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-010",
+    "Numberz": "08-010",
     "Description": "SALINA VORTEX SLIDE GATE FOR BULK  BAG UNLOADER",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-011",
+    "Numberz": "08-011",
     "Description": "SAND BLOWER AND SAND LINES",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-012",
+    "Numberz": "08-012",
     "Description": "SCRUBBER",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-013",
+    "Numberz": "08-013",
     "Description": "SCRUBBER RECIRCULATING PUMP",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-014",
+    "Numberz": "08-014",
     "Description": "SCRUBBER SUMP HEATER",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-015",
+    "Numberz": "08-015",
     "Description": "CYCLONE",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-016",
+    "Numberz": "08-016",
     "Description": "EXHAUST FAN",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-017",
+    "Numberz": "08-017",
     "Description": "DUCT WORK FOR CORE MACHINE",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-018",
+    "Numberz": "08-018",
     "Description": "CORE MACHINE CONTROLS",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-019",
+    "Numberz": "08-019",
     "Description": "SCRUBBER CONTROLS",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-020",
+    "Numberz": "08-020",
     "Description": "AIR DRYER",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "08-500",
+    "Numberz": "08-500",
     "Description": "CORE MIXER DEPT",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "08-6666",
+    "Numberz": "08-6666",
     "Description": "6S FOR CORE ROOM",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "08-7777",
+    "Numberz": "08-7777",
     "Description": "SAFETY",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "08-8888",
+    "Numberz": "08-8888",
     "Description": "MODIFICATION",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "08-9999",
+    "Numberz": "08-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "09-001",
+    "Numberz": "09-001",
     "Description": "PRESTO STACKER IN PADDING CORE ROOM",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "09-002",
+    "Numberz": "09-002",
     "Description": "#2 MICROWAVE OVEN, (S/N 6K25010035)",
     "Location": "X-WIN ROOM"
   },
   {
-    "Number": "09-003",
+    "Numberz": "09-003",
     "Description": "#3 MICROWAVE OVEN  (S/N 6CN9110005)",
     "Location": "X-WIN ROOM"
   },
   {
-    "Number": "09-004",
+    "Numberz": "09-004",
     "Description": "#4 MICROWAVE OVEN  (S/N  6C10200033)",
     "Location": "X-WIN ROOM"
   },
   {
-    "Number": "09-005",
+    "Numberz": "09-005",
     "Description": "#5 MICROWAVE OVEN  (S/N 6K95060014)",
     "Location": "X-WIN ROOM"
   },
   {
-    "Number": "09-005-2",
+    "Numberz": "09-005-2",
     "Description": "AIREDALE AIR CONDITIONER (SOUTH)",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "09-006",
+    "Numberz": "09-006",
     "Description": "#6 MICROWAVE OVEN  (S/N  6K74120028)",
     "Location": "X-WIN ROOM"
   },
   {
-    "Number": "09-007",
+    "Numberz": "09-007",
     "Description": "#1 MICROWAVE (S/N 6K16110022)",
     "Location": "X-WIN ROOM"
   },
   {
-    "Number": "09-008",
+    "Numberz": "09-008",
     "Description": "#7 MICROWAVE (SN/6K25010015)",
     "Location": "X-WIN ROOM"
   },
   {
-    "Number": "09-009",
+    "Numberz": "09-009",
     "Description": "# 8 MICROWAVE OVEN S/N 6K75060003",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "09-010",
+    "Numberz": "09-010",
     "Description": "TOLEDO PANTHER SCALE",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "09-011",
+    "Numberz": "09-011",
     "Description": "#9 MICROWAVE OVEN S/N 6K06060056",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "09-012",
+    "Numberz": "09-012",
     "Description": "MICROWAVE S/N 6K16110035",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "09-500",
+    "Numberz": "09-500",
     "Description": "MISC CORE ROOM & CERAMIC MIXER",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "09-6666",
+    "Numberz": "09-6666",
     "Description": "6S FOR X-WIN ROOM",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "09-7777",
+    "Numberz": "09-7777",
     "Description": "SAFETY",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "09-8888",
+    "Numberz": "09-8888",
     "Description": "REVISION",
     "Location": "CORE ROOM"
   },
   {
-    "Number": "10-001",
+    "Numberz": "10-001",
     "Description": "MIXER              (MULLER)",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "10-002",
+    "Numberz": "10-002",
     "Description": "SCALE",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "10-005",
+    "Numberz": "10-005",
     "Description": "MIXER FEED CONVEYOR",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "10-006",
+    "Numberz": "10-006",
     "Description": "BIN VENT FOR MIX HOLDING BIN OVER MULLER",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "10-007",
+    "Numberz": "10-007",
     "Description": "BIN VENT BENTONITE, OUTSIDE",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "10-008",
+    "Numberz": "10-008",
     "Description": "BIN VENT,NO BAKE 200 TON SAND, OUTSIDE",
     "Location": "SILO #3"
   },
   {
-    "Number": "10-009",
+    "Numberz": "10-009",
     "Description": "BIN VENT, 55 TON BENTONITE, OUTSIDE",
     "Location": "SILO #1"
   },
   {
-    "Number": "10-010",
+    "Numberz": "10-010",
     "Description": "BIN VENT, 150 TON SAND, OUTSIDE",
     "Location": "SILO #4"
   },
   {
-    "Number": "10-011",
+    "Numberz": "10-011",
     "Description": "BIN VENT, 157 TON SAND, OUTSIDE",
     "Location": "SILO #5"
   },
   {
-    "Number": "10-012",
+    "Numberz": "10-012",
     "Description": "TRANSPORTER NEW SAND",
     "Location": "SILOS"
   },
   {
-    "Number": "10-013",
+    "Numberz": "10-013",
     "Description": "TRANSPORTER BENTONITE",
     "Location": "SILOS"
   },
   {
-    "Number": "10-014",
+    "Numberz": "10-014",
     "Description": "LEVEL INDICATOR SILO",
     "Location": "SILOS"
   },
   {
-    "Number": "10-015",
+    "Numberz": "10-015",
     "Description": "PREPARED SAND BELT #1",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "10-016",
+    "Numberz": "10-016",
     "Description": "PREPARED SAND BELT #2",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "10-017",
+    "Numberz": "10-017",
     "Description": "BIN VENT, 135 TON BENTONITE",
     "Location": "SILO #2"
   },
   {
-    "Number": "10-018",
+    "Numberz": "10-018",
     "Description": "NEW SAND PLANT CONTROLS",
     "Location": "DISA"
   },
   {
-    "Number": "10-019",
+    "Numberz": "10-019",
     "Description": "CONTROLS FOR B0ND DETERMINATOR",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "10-020",
+    "Numberz": "10-020",
     "Description": "BOND DETERMINATOR (HARTLEY)",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "10-021",
+    "Numberz": "10-021",
     "Description": "SAND PLANT BAGHOUSE",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "10-022",
+    "Numberz": "10-022",
     "Description": "RAIL CAR BLOWER",
     "Location": "SILOS"
   },
   {
-    "Number": "10-023",
+    "Numberz": "10-023",
     "Description": "SAND MIX WEIGH SYSTEM",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "10-500",
+    "Numberz": "10-500",
     "Description": "SAND PLANT DEPT",
     "Location": "DISA"
   },
   {
-    "Number": "10-6666",
+    "Numberz": "10-6666",
     "Description": "LEAN PROJECT FOR SAND PLANT",
     "Location": "DISA"
   },
   {
-    "Number": "10-7777",
+    "Numberz": "10-7777",
     "Description": "SAFETY",
     "Location": "DISA"
   },
   {
-    "Number": "10-8888",
+    "Numberz": "10-8888",
     "Description": "MODIFICATION",
     "Location": "DISA"
   },
   {
-    "Number": "10-9999",
+    "Numberz": "10-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "DISA"
   },
   {
-    "Number": "11-001",
+    "Numberz": "11-001",
     "Description": "CRANE IN SCRAP BUILDING",
     "Location": "RETURN SCRAP"
   },
   {
-    "Number": "11-002",
+    "Numberz": "11-002",
     "Description": "ADC-6000 DRUM CRUSHER",
     "Location": "SHIPPING"
   },
   {
-    "Number": "11-003",
+    "Numberz": "11-003",
     "Description": "CHARGE AREA CYCLONE",
     "Location": "CHARGE AREA"
   },
   {
-    "Number": "11-005",
+    "Numberz": "11-005",
     "Description": "SCRAP BUILDING AIR COMPRESSOR",
     "Location": "RETURN SCRAP"
   },
   {
-    "Number": "11-006",
+    "Numberz": "11-006",
     "Description": "5  X 7  20,000 LB FLOOR SCALE IN SCRAP BUILDING",
     "Location": "RETURN SCRAP"
   },
   {
-    "Number": "11-007",
+    "Numberz": "11-007",
     "Description": "SLAG PIT BAGHOUSE",
     "Location": "SLAG PIT"
   },
   {
-    "Number": "11-008",
+    "Numberz": "11-008",
     "Description": "VIBRATING SLAG SORTING CONVEYOR",
     "Location": "SLAG PIT"
   },
   {
-    "Number": "11-009",
+    "Numberz": "11-009",
     "Description": "SLAG VIBRATOR DISCHARGE BELT",
     "Location": "SLAG PIT"
   },
   {
-    "Number": "11-010",
+    "Numberz": "11-010",
     "Description": "BACKHOE JOHN DEERE",
     "Location": "SLAG PIT"
   },
   {
-    "Number": "11-011",
+    "Numberz": "11-011",
     "Description": "JOHN DEERE SKID STEER (318D)",
     "Location": "SLAG PIT"
   },
   {
-    "Number": "11-012",
+    "Numberz": "11-012",
     "Description": "LADLE AND PLATE HEATER AT SCRAP BUILDING",
     "Location": "SCRAP AREA"
   },
   {
-    "Number": "11-013",
+    "Numberz": "11-013",
     "Description": "SLAG DRUM ENTRANCE VIBRATOR",
     "Location": "SCRAP AREA"
   },
   {
-    "Number": "11-014",
+    "Numberz": "11-014",
     "Description": "DIDION SLAG DRUM",
     "Location": "SCRAP AREA"
   },
   {
-    "Number": "11-015",
+    "Numberz": "11-015",
     "Description": "SLAG DRUM EXIT VIBRATOR",
     "Location": "SCRAP AREA"
   },
   {
-    "Number": "11-016",
+    "Numberz": "11-016",
     "Description": "SLAG DRUM BAGHOUSE",
     "Location": "SCRAP AREA"
   },
   {
-    "Number": "11-017",
+    "Numberz": "11-017",
     "Description": "METAL SEPERATOR FOR SLAG DRUM",
     "Location": "SCRAP AREA"
   },
   {
-    "Number": "11-018",
+    "Numberz": "11-018",
     "Description": "AIR COMPRESSOR",
     "Location": "SCRAP AREA"
   },
   {
-    "Number": "11-019",
+    "Numberz": "11-019",
     "Description": "AIR DRYER",
     "Location": "SCRAP AREA"
   },
   {
-    "Number": "11-18000",
+    "Numberz": "11-18000",
     "Description": "OSHAS 18001 WORK ORDERS",
     "Location": "SLAG PIT"
   },
   {
-    "Number": "11-500",
+    "Numberz": "11-500",
     "Description": "CHARGE PREP DEPARTMENT",
     "Location": "CHARGE PREP DEPARTMENT"
   },
   {
-    "Number": "11-6666",
+    "Numberz": "11-6666",
     "Description": "6S SCRAP BUILDING",
     "Location": "SCRAP AREA"
   },
   {
-    "Number": "11-7777",
+    "Numberz": "11-7777",
     "Description": "SAFETY FOR CHARGE SCRAP BUILDING",
     "Location": "RETURN SCRAP"
   },
   {
-    "Number": "11-9999",
+    "Numberz": "11-9999",
     "Description": "PRODUCTION ASSISTANCE FOR CHARGE PREP DEPT.",
     "Location": "RETURN SCRAP"
   },
   {
-    "Number": "13-001",
+    "Numberz": "13-001",
     "Description": "DISA MOLDING MACHINE",
     "Location": "DISA DEPT"
   },
   {
-    "Number": "13-002A",
+    "Numberz": "13-002A",
     "Description": "CAPITAL PROJECT FOR A.M.C. MOLD CONVEYOR",
     "Location": "DISA DEPT"
   },
   {
-    "Number": "13-005",
+    "Numberz": "13-005",
     "Description": "SAND FEED CONVEYOR",
     "Location": "DISA"
   },
   {
-    "Number": "13-006",
+    "Numberz": "13-006",
     "Description": "SCRAP SAND CONVEYOR #1",
     "Location": "DISA"
   },
   {
-    "Number": "13-007",
+    "Numberz": "13-007",
     "Description": "SCRAP SAND CONVEYOR #2",
     "Location": "DISA"
   },
   {
-    "Number": "13-008",
+    "Numberz": "13-008",
     "Description": "MOLD TOPPER",
     "Location": "DISA"
   },
   {
-    "Number": "13-010",
+    "Numberz": "13-010",
     "Description": "AMC/ SBC       (REPLACES 13-002 & 13-003)",
     "Location": "DISA DEPT"
   },
   {
-    "Number": "13-011",
+    "Numberz": "13-011",
     "Description": "NEW MOLD TOPPER AUTOMATED FLEXABLE CONVEYOR",
     "Location": "-"
   },
   {
-    "Number": "13-500",
+    "Numberz": "13-500",
     "Description": "DISA DEPT",
     "Location": "DISA"
   },
   {
-    "Number": "13-6666",
+    "Numberz": "13-6666",
     "Description": "LEAN PROJECT FOR DISA",
     "Location": "DISA DEPT"
   },
   {
-    "Number": "13-7777",
+    "Numberz": "13-7777",
     "Description": "SAFETY",
     "Location": "DISA"
   },
   {
-    "Number": "13-8888",
+    "Numberz": "13-8888",
     "Description": "MODIFICATION",
     "Location": "DISA"
   },
   {
-    "Number": "13-9999",
+    "Numberz": "13-9999",
     "Description": "EMPLOYEE ASSISTANCE",
     "Location": "DISA"
   },
   {
-    "Number": "14-007",
+    "Numberz": "14-007",
     "Description": "ROUTER",
     "Location": "PAT. SHOP"
   },
   {
-    "Number": "14-010",
+    "Numberz": "14-010",
     "Description": "BELT SANDER",
     "Location": "PAT. SHOP"
   },
   {
-    "Number": "14-012",
+    "Numberz": "14-012",
     "Description": "BAND SAW (METAL CUTTING)",
     "Location": "PAT. SHOP"
   },
   {
-    "Number": "14-013",
+    "Numberz": "14-013",
     "Description": "MILLING MACHINE",
     "Location": "PAT. SHOP"
   },
   {
-    "Number": "14-014",
+    "Numberz": "14-014",
     "Description": "LATHE",
     "Location": "PAT. SHOP"
   },
   {
-    "Number": "14-015",
+    "Numberz": "14-015",
     "Description": "PEDESTAL GRINDER",
     "Location": "PATTERN SH"
   },
   {
-    "Number": "14-016",
+    "Numberz": "14-016",
     "Description": "DISC SANDER",
     "Location": "PAT. SHOP"
   },
   {
-    "Number": "14-018",
+    "Numberz": "14-018",
     "Description": "DISC SANDER",
     "Location": "PAT. SHOP"
   },
   {
-    "Number": "14-019",
+    "Numberz": "14-019",
     "Description": "PATTERN LIFT",
     "Location": "PATT. SHOP"
   },
   {
-    "Number": "14-022",
+    "Numberz": "14-022",
     "Description": "DUST COLLECTOR (PATTERN SHOP)",
     "Location": "PATT. SHOP"
   },
   {
-    "Number": "14-023",
+    "Numberz": "14-023",
     "Description": "FADAL VMC 6030 MILLING MACHINE (SOUTH)",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-024",
+    "Numberz": "14-024",
     "Description": "LARGE TABLE SAW",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-026",
+    "Numberz": "14-026",
     "Description": "TABLE SAW",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-028",
+    "Numberz": "14-028",
     "Description": "JOINTER",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-029",
+    "Numberz": "14-029",
     "Description": "RADIAL SAW, UNI POINT",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-030",
+    "Numberz": "14-030",
     "Description": "EYE WASH",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-031",
+    "Numberz": "14-031",
     "Description": "THICKNESS PLANER",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-034",
+    "Numberz": "14-034",
     "Description": "EYE WASH AT BATTERY CHARGER IN PATTERN SHOP",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-035",
+    "Numberz": "14-035",
     "Description": "POWERMATIC BAND SAW (WOOD CUTTING)",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-036",
+    "Numberz": "14-036",
     "Description": "POWERMATIC TABLE SHOP",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-037",
+    "Numberz": "14-037",
     "Description": "AMERICAN STANDARD AIR CONDITIONER",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-038",
+    "Numberz": "14-038",
     "Description": "FADAL VMC 6030 MILLING MACHINE (NORTH)",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-039",
+    "Numberz": "14-039",
     "Description": "SPINDLE SANDER",
     "Location": "PAT. SHOP"
   },
   {
-    "Number": "14-040",
+    "Numberz": "14-040",
     "Description": "FIRE SPRINKLER SYSTEM, EAST",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-041",
+    "Numberz": "14-041",
     "Description": "FIRE SPRINKLER SYSTEM, WEST",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-042",
+    "Numberz": "14-042",
     "Description": "SPRINKLER SYSTEM AIR COMPRESSOR",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-043",
+    "Numberz": "14-043",
     "Description": "X - Y CRANE",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-044",
+    "Numberz": "14-044",
     "Description": "PRESTO SCISSOR LIFTS",
     "Location": "PAT. SHOP"
   },
   {
-    "Number": "14-046",
+    "Numberz": "14-046",
     "Description": "RADIAL DRILL PRESS",
     "Location": "PAT. SHOP"
   },
   {
-    "Number": "14-047",
+    "Numberz": "14-047",
     "Description": "INGERSOLL RAND ROTARY SCREW AIR COMPRESSOR",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-048",
+    "Numberz": "14-048",
     "Description": "RPM (RAPID PATTERN MAKER)",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-049",
+    "Numberz": "14-049",
     "Description": "ABB ROBOT FOUNDRY PLUS 2",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-050",
+    "Numberz": "14-050",
     "Description": "JET-DUST COLLECTOR FOR RPM",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-18000",
+    "Numberz": "14-18000",
     "Description": "OSHAS 18001 WORK ORDERS",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-500",
+    "Numberz": "14-500",
     "Description": "PATTERN SHOP DEPT",
     "Location": "NO BAKE"
   },
   {
-    "Number": "14-6666",
+    "Numberz": "14-6666",
     "Description": "LEAN FOR DEPARTMENT 14",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-7777",
+    "Numberz": "14-7777",
     "Description": "SAFETY",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-8888",
+    "Numberz": "14-8888",
     "Description": "MODIFICATION",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "14-9999",
+    "Numberz": "14-9999",
     "Description": "EMPLOYEE ASSISTANCE",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": 1590241,
+    "Numberz": 1590241,
     "Description": "ROOF WORK 2012",
     "Location": "PLANT"
   },
   {
-    "Number": 1590246,
+    "Numberz": 1590246,
     "Description": "HEAT EXCHANGER AND BED",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": 1590256,
+    "Numberz": 1590256,
     "Description": "LOADER SCALES AT RAILROAD TRACKS",
     "Location": "SHIPPING"
   },
   {
-    "Number": 1590349,
+    "Numberz": 1590349,
     "Description": "LADLE",
     "Location": "#1 & 3 ARC FURNACE"
   },
   {
-    "Number": 1590394,
+    "Numberz": 1590394,
     "Description": "INSTALL BURNER CONTROLS IN SCAP BUILDING",
     "Location": "SCRAP AREA"
   },
   {
-    "Number": "17-002",
+    "Numberz": "17-002",
     "Description": "LADLE HEATER #1 (NORTH)",
     "Location": "N.B. POUR."
   },
   {
-    "Number": "17-003",
+    "Numberz": "17-003",
     "Description": "LADLE HEATER #2 (SOUTH)",
     "Location": "N.B. POUR."
   },
   {
-    "Number": "17-004",
+    "Numberz": "17-004",
     "Description": "POURING LINES",
     "Location": "NO BAKE"
   },
   {
-    "Number": "17-005",
+    "Numberz": "17-005",
     "Description": "CRANE RAILS",
     "Location": "NO BAKE"
   },
   {
-    "Number": "17-046",
+    "Numberz": "17-046",
     "Description": "#3 LADLE HEATER (ABB)",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "17-048",
+    "Numberz": "17-048",
     "Description": "PORTABLE CRANE SCALE",
     "Location": "N.B. POUR."
   },
   {
-    "Number": "17-049",
+    "Numberz": "17-049",
     "Description": "#4 LADLE HEATER",
     "Location": "N.B. POUR."
   },
   {
-    "Number": "17-050",
+    "Numberz": "17-050",
     "Description": "FLASH BUGGY",
     "Location": "N.B. POUR."
   },
   {
-    "Number": "17-051",
+    "Numberz": "17-051",
     "Description": "PORTABLE DEMARCO VACUUM 4740D, 74 B HP",
     "Location": "MAINTENANCE"
   },
   {
-    "Number": "17-500",
+    "Numberz": "17-500",
     "Description": "M.T.POUR DEPT",
     "Location": "NO BAKE"
   },
   {
-    "Number": "17-6666",
+    "Numberz": "17-6666",
     "Description": "LEAN PROJECT AT POURING LINES",
     "Location": "NO BAKE/POURING"
   },
   {
-    "Number": "17-7777",
+    "Numberz": "17-7777",
     "Description": "SAFETY",
     "Location": "NO BAKE"
   },
   {
-    "Number": "17-8888",
+    "Numberz": "17-8888",
     "Description": "MODIFICATION",
     "Location": "NO BAKE"
   },
   {
-    "Number": "17-9999",
+    "Numberz": "17-9999",
     "Description": "EMPLOYEE   ASSISTANCE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "18-002",
+    "Numberz": "18-002",
     "Description": "NO BAKE BAGHOUSE AMERICAN FILTER",
     "Location": "NO BAKE SHAKEOUT"
   },
   {
-    "Number": "18-015",
+    "Numberz": "18-015",
     "Description": "MOLD BUGGY #2",
     "Location": "NO BAKE"
   },
   {
-    "Number": "18-016",
+    "Numberz": "18-016",
     "Description": "BOTTOM BOARD STACKER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "18-022",
+    "Numberz": "18-022",
     "Description": "SAND COOLER",
     "Location": "N.B. SH.OT"
   },
   {
-    "Number": "18-024",
+    "Numberz": "18-024",
     "Description": "SAND TRANSPORTER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "18-081",
+    "Numberz": "18-081",
     "Description": "PUMP SAND COOLER NO BAKE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "18-083",
+    "Numberz": "18-083",
     "Description": "RECLAIMER AND VIBRAMILL BAGHOUSE",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-084",
+    "Numberz": "18-084",
     "Description": "CLANSMAN  89 / 392 / EEC",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-085",
+    "Numberz": "18-085",
     "Description": "CLANSMAN AIR CONDITIONER",
     "Location": "ROOF"
   },
   {
-    "Number": "18-086",
+    "Numberz": "18-086",
     "Description": "INCLINE CONVEYOR",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-087",
+    "Numberz": "18-087",
     "Description": "JOGGING TABLE (SHAKEOUT CONVEYOR)",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-088",
+    "Numberz": "18-088",
     "Description": "NOBAKE SHAKEOUT DIDION DRUM",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-089",
+    "Numberz": "18-089",
     "Description": "NOBAKE SHAKEOUT DIDION DISCHARGE CONVEYOR",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-090",
+    "Numberz": "18-090",
     "Description": "MAGNETIC DRUM SEPARATOR",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-091",
+    "Numberz": "18-091",
     "Description": "DUMP TABLE",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-092",
+    "Numberz": "18-092",
     "Description": "MAGNETIC SEPARATOR",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-093",
+    "Numberz": "18-093",
     "Description": "VORTEX SLIDE GATE",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-094",
+    "Numberz": "18-094",
     "Description": "SAND ELEVATOR BELT",
     "Location": "NB/SHAKE OUT/FINISH"
   },
   {
-    "Number": "18-096",
+    "Numberz": "18-096",
     "Description": "B.A.C. COOLING TOWER",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-097",
+    "Numberz": "18-097",
     "Description": "NEW #1 MOLD BUGGY",
     "Location": "NO BAKE"
   },
   {
-    "Number": "18-18000",
+    "Numberz": "18-18000",
     "Description": "OSHAS 18001 WORK ORDERS",
     "Location": "NO BAKE SHAKEOUT"
   },
   {
-    "Number": "18-500",
+    "Numberz": "18-500",
     "Description": "SHAKEOUT DEPT",
     "Location": "NO BAKE"
   },
   {
-    "Number": "18-6666",
+    "Numberz": "18-6666",
     "Description": "LEAN FOR NOBAKE SHAKEOUT",
     "Location": "NB SHAKEOUT"
   },
   {
-    "Number": "18-7777",
+    "Numberz": "18-7777",
     "Description": "SAFETY",
     "Location": "NO BAKE"
   },
   {
-    "Number": "18-8888",
+    "Numberz": "18-8888",
     "Description": "MODIFICATION",
     "Location": "NO BAKE"
   },
   {
-    "Number": "18-9999",
+    "Numberz": "18-9999",
     "Description": "EMPLOYEE    ASSISTANCE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-003",
+    "Numberz": "19-003",
     "Description": "CONVEYOR USED SAND FEED (HEATER)",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-004",
+    "Numberz": "19-004",
     "Description": "CONVEYOR NEW SAND FEED (HEATER)",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-005",
+    "Numberz": "19-005",
     "Description": "#1 CONVEYOR WALKING BEAM (#5B CONV.)",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-016",
+    "Numberz": "19-016",
     "Description": "POWERED CONVEYOR AT MIXER (#3 CONV.)",
     "Location": "NO BAKE M."
   },
   {
-    "Number": "19-017",
+    "Numberz": "19-017",
     "Description": "POWERED CONVEYOR FROM MIXER (#5 CONV.)",
     "Location": "NO BAKE M."
   },
   {
-    "Number": "19-018",
+    "Numberz": "19-018",
     "Description": "POWERED CONVEYOR TO WALKING BEAM (#5A CONV.)",
     "Location": "NO BAKE M."
   },
   {
-    "Number": "19-019",
+    "Numberz": "19-019",
     "Description": "#6 POWERED CONVEYOR WALKING BEAM EXIT (#6 CONV.)",
     "Location": "NO BAKE M."
   },
   {
-    "Number": "19-020",
+    "Numberz": "19-020",
     "Description": "#7 - POWERED CONVEYOR AFTER WALKING BEAM",
     "Location": "NO BAKE M."
   },
   {
-    "Number": "19-021",
+    "Numberz": "19-021",
     "Description": "POWERED CONVEYOR TO ROLL OVER (#9 CONV.)",
     "Location": "NO BAKE M."
   },
   {
-    "Number": "19-029",
+    "Numberz": "19-029",
     "Description": "POWERED CONVEYOR AFTER CLOSE UP",
     "Location": "NO BAKE M."
   },
   {
-    "Number": "19-030",
+    "Numberz": "19-030",
     "Description": "NEW SAND TRANSPORTER",
     "Location": "SILOS"
   },
   {
-    "Number": "19-031",
+    "Numberz": "19-031",
     "Description": "WALKING BEAM #2",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-033",
+    "Numberz": "19-033",
     "Description": "POWERED CONVEYOR",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-034",
+    "Numberz": "19-034",
     "Description": "POWERED CONVEYOR",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-035",
+    "Numberz": "19-035",
     "Description": "POWERED CONVEYOR",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-036",
+    "Numberz": "19-036",
     "Description": "POWERED CONVEYOR",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-037",
+    "Numberz": "19-037",
     "Description": "#1 SPRAY STATION",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-038",
+    "Numberz": "19-038",
     "Description": "#2 SPRAY STATION",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-039",
+    "Numberz": "19-039",
     "Description": "POWERED CONVEYOR",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-040",
+    "Numberz": "19-040",
     "Description": "POWERED CONVEYOR",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-041",
+    "Numberz": "19-041",
     "Description": "WALKING BEAM #3",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-042",
+    "Numberz": "19-042",
     "Description": "POWERED CONVEYOR AT CLOSEUP",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-043",
+    "Numberz": "19-043",
     "Description": "POWERED CONVEYOR  AT CLOSEUP",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-044",
+    "Numberz": "19-044",
     "Description": "POWERED CONVEYOR UNDER LARGE MOLD HANDLER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-045",
+    "Numberz": "19-045",
     "Description": "POWERED CONVEYOR",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-046",
+    "Numberz": "19-046",
     "Description": "POWERED CONVEYOR",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-046A",
+    "Numberz": "19-046A",
     "Description": "SMC15 BELT, SECOND PART OF 19-046",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-047",
+    "Numberz": "19-047",
     "Description": "#16 POWERED CONVEYOR/TURNTABLE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-048",
+    "Numberz": "19-048",
     "Description": "TRANSISTION CONVEYOR",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-049",
+    "Numberz": "19-049",
     "Description": "MIXER - NO BAKE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-051",
+    "Numberz": "19-051",
     "Description": "TURN TABLE #4 (#11  CONV.)",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-056",
+    "Numberz": "19-056",
     "Description": "MIXER BAGHOUSE",
     "Location": "NO BAKE MIXER"
   },
   {
-    "Number": "19-057",
+    "Numberz": "19-057",
     "Description": "TWIN BIN TRANSPORTER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-058",
+    "Numberz": "19-058",
     "Description": "EYE WASH",
     "Location": "NO BAKE MIXER"
   },
   {
-    "Number": "19-059",
+    "Numberz": "19-059",
     "Description": "#1 BOTTOM BOARD HOLDING CONVEYOR (#10 CONV.)",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-060",
+    "Numberz": "19-060",
     "Description": "#2 BOTTOM BOARD HOLDING CONVEYOR #10",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-061",
+    "Numberz": "19-061",
     "Description": "SAND RECLAIMER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-063",
+    "Numberz": "19-063",
     "Description": "BOTTOM BOARD POSITIONER",
     "Location": "MOLD LINE"
   },
   {
-    "Number": "19-064",
+    "Numberz": "19-064",
     "Description": "CONVEYOR #1",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-065",
+    "Numberz": "19-065",
     "Description": "CONVEYOR #2",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-066",
+    "Numberz": "19-066",
     "Description": "CONVEYOR #8",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-067",
+    "Numberz": "19-067",
     "Description": "CONVEYOR #18",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-068",
+    "Numberz": "19-068",
     "Description": "BUGGY 19",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-069",
+    "Numberz": "19-069",
     "Description": "BUGGY 20",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-070",
+    "Numberz": "19-070",
     "Description": "CONVEYOR #15A",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-071",
+    "Numberz": "19-071",
     "Description": "CONVEYOR #15",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-072",
+    "Numberz": "19-072",
     "Description": "CONVEYOR #14",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-073",
+    "Numberz": "19-073",
     "Description": "CONVEYOR #13",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-074",
+    "Numberz": "19-074",
     "Description": "CONVEYOR #12",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-075",
+    "Numberz": "19-075",
     "Description": "CONVEYOR #21",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-076",
+    "Numberz": "19-076",
     "Description": "CONVEYOR #22",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-077",
+    "Numberz": "19-077",
     "Description": "CONVEYOR #23",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-078",
+    "Numberz": "19-078",
     "Description": "CONVEYOR #24",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-079",
+    "Numberz": "19-079",
     "Description": "CONVEYOR #25",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-080",
+    "Numberz": "19-080",
     "Description": "CONVEYOR #26",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-081",
+    "Numberz": "19-081",
     "Description": "SCRAP SAND BELT UNDER NOBAKE MIXER",
     "Location": "NO BAKE MIXER"
   },
   {
-    "Number": "19-082",
+    "Numberz": "19-082",
     "Description": "MOLD LINE DRYING STATION",
     "Location": "MOLD LINE"
   },
   {
-    "Number": "19-083",
+    "Numberz": "19-083",
     "Description": "CONVEYOR BELT TO RECLAIMER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-085",
+    "Numberz": "19-085",
     "Description": "NOBAKE MOLDING #2 HCC - WEST (USED SAND)",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-086",
+    "Numberz": "19-086",
     "Description": "NOBAKE MOLDING #1 HCC - EAST (NEW SAND)",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-087",
+    "Numberz": "19-087",
     "Description": "BOILER FOR NOBAKE MOLDING HCC",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-088",
+    "Numberz": "19-088",
     "Description": "CHILLER FOR NOBAKE MOLDING HCC",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-089",
+    "Numberz": "19-089",
     "Description": "POSITURNER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-090",
+    "Numberz": "19-090",
     "Description": "OVERHEAD CRANE",
     "Location": "CORE ROOM II"
   },
   {
-    "Number": "19-091",
+    "Numberz": "19-091",
     "Description": "LIFT",
     "Location": "MOLD LINE"
   },
   {
-    "Number": "19-092",
+    "Numberz": "19-092",
     "Description": "ROLLOVER DRAW",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-094",
+    "Numberz": "19-094",
     "Description": "OVERHEAD CRANE (DESHAZO)",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-095",
+    "Numberz": "19-095",
     "Description": "LARGE MOLD HANDLER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-096",
+    "Numberz": "19-096",
     "Description": "SMALL MOLD HANDLER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-097",
+    "Numberz": "19-097",
     "Description": "CT-15.000 (NEW) COMPACTION TABLE",
     "Location": "NO BAKE MIXER"
   },
   {
-    "Number": "19-098",
+    "Numberz": "19-098",
     "Description": "ULTRA LITE 4000 SD FLOW GUN",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-500",
+    "Numberz": "19-500",
     "Description": "MOLDING DEPT",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-6666",
+    "Numberz": "19-6666",
     "Description": "LEAN PROJECT",
     "Location": "NO BAKE"
   },
   {
-    "Number": "19-7777",
+    "Numberz": "19-7777",
     "Description": "SAFETY",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-8888",
+    "Numberz": "19-8888",
     "Description": "MODIFICATION",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "19-9999",
+    "Numberz": "19-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "20-001A",
+    "Numberz": "20-001A",
     "Description": "SHAKEOUT DRUM",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-002",
+    "Numberz": "20-002",
     "Description": "FEED VIBRATOR",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-006",
+    "Numberz": "20-006",
     "Description": "SAND LUMP BELT #1",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-011",
+    "Numberz": "20-011",
     "Description": "RETURN SAND BELT #1",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-014",
+    "Numberz": "20-014",
     "Description": "SHAKEOUT EXIT BELT",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-017",
+    "Numberz": "20-017",
     "Description": "HOOD BURNER",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-023",
+    "Numberz": "20-023",
     "Description": "TOP FEED CONVEYOR",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-024",
+    "Numberz": "20-024",
     "Description": "BOTTOM DISCHARGE CONVEYOR",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-025",
+    "Numberz": "20-025",
     "Description": "#1 SAND ELEVATOR BELT",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-026",
+    "Numberz": "20-026",
     "Description": "OVERHEAD MAGNETIC SEPARATOR",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-027",
+    "Numberz": "20-027",
     "Description": "BIN #1( SOUTH) , BELT SCRAPER & BED AND PROBES",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-028",
+    "Numberz": "20-028",
     "Description": "BIN #2 (MIDDLE) BELT  SCRAPER & PROBES",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-029",
+    "Numberz": "20-029",
     "Description": "BIN #3 (NORTH) BELT SCRAPER & PROBE",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-030",
+    "Numberz": "20-030",
     "Description": "DUCT HEATER",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-031",
+    "Numberz": "20-031",
     "Description": "DISA BAGHOUSE",
     "Location": "DISA/SHAKEOUT/SORT"
   },
   {
-    "Number": "20-032",
+    "Numberz": "20-032",
     "Description": "DISA BAGHOUSE FAN AND MOTOR",
     "Location": "DISA/SHAKEOUT/SORT"
   },
   {
-    "Number": "20-034",
+    "Numberz": "20-034",
     "Description": "DISA SAND COOLER  (SIMPSON)",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-035",
+    "Numberz": "20-035",
     "Description": "MAGNETIC SEPARATOR",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-036",
+    "Numberz": "20-036",
     "Description": "#2 SAND ELEVATOR BELT",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-037",
+    "Numberz": "20-037",
     "Description": "#3 SAND ELEVATOR BELT",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-038",
+    "Numberz": "20-038",
     "Description": "#4 METAL SEPARATOR ELEVATOR BELT",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-039",
+    "Numberz": "20-039",
     "Description": "SAND COOLER CYCLONE",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "20-040",
+    "Numberz": "20-040",
     "Description": "SAND COOLER FEED BELT",
     "Location": "SAND PLANT"
   },
   {
-    "Number": "20-041",
+    "Numberz": "20-041",
     "Description": "SCRAP SAND BELT UNDER AMC/SBC",
     "Location": "DISA DEPT"
   },
   {
-    "Number": "20-042",
+    "Numberz": "20-042",
     "Description": "NEW BUCKET ELEVATOR",
     "Location": "DISA DEPT"
   },
   {
-    "Number": "20-500",
+    "Numberz": "20-500",
     "Description": "SHAKEOUT DRUM DEPT",
     "Location": "DISA"
   },
   {
-    "Number": "20-6666",
+    "Numberz": "20-6666",
     "Description": "LEAN PROJECT",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-7777",
+    "Numberz": "20-7777",
     "Description": "SAFETY",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-8888",
+    "Numberz": "20-8888",
     "Description": "MODIFICATION",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "20-9999",
+    "Numberz": "20-9999",
     "Description": "EMPLOYEE ASSISTANCE",
     "Location": "SHAKEOUT"
   },
   {
-    "Number": "25-001",
+    "Numberz": "25-001",
     "Description": "BREAKER DRUM",
     "Location": "B.S.G."
   },
   {
-    "Number": "25-006",
+    "Numberz": "25-006",
     "Description": "INSPECTION BELT (SORTING)",
     "Location": "SORTING"
   },
   {
-    "Number": "25-007",
+    "Numberz": "25-007",
     "Description": "DOUBLES BELT",
     "Location": "SORTING"
   },
   {
-    "Number": "25-010",
+    "Numberz": "25-010",
     "Description": "GRATE CHUTE #1",
     "Location": "SORTING"
   },
   {
-    "Number": "25-011",
+    "Numberz": "25-011",
     "Description": "GRATE CHUTE #2",
     "Location": "SORTING"
   },
   {
-    "Number": "25-012",
+    "Numberz": "25-012",
     "Description": "GRATE CHUTE #3",
     "Location": "SORTING"
   },
   {
-    "Number": "25-015",
+    "Numberz": "25-015",
     "Description": "UP BELT #1  (SOUTH BELT)",
     "Location": "SORTING"
   },
   {
-    "Number": "25-016",
+    "Numberz": "25-016",
     "Description": "UP BELT #2  (NORTH BELT)",
     "Location": "SORTING"
   },
   {
-    "Number": "25-017",
+    "Numberz": "25-017",
     "Description": "CROSS CONVEYOR # 1",
     "Location": "SORTING"
   },
   {
-    "Number": "25-018",
+    "Numberz": "25-018",
     "Description": "CROSS CONVEYOR #2",
     "Location": "SORTING"
   },
   {
-    "Number": "25-019",
+    "Numberz": "25-019",
     "Description": "CROSS CONVEYOR #3",
     "Location": "QUENCHING"
   },
   {
-    "Number": "25-020",
+    "Numberz": "25-020",
     "Description": "CROSS CONVEYOR #4",
     "Location": "QUENCHING"
   },
   {
-    "Number": "25-021",
+    "Numberz": "25-021",
     "Description": "CROSS CONVEYOR #5",
     "Location": "QUENCHING"
   },
   {
-    "Number": "25-022",
+    "Numberz": "25-022",
     "Description": "CROSS CONVEYOR",
     "Location": "QUENCHING"
   },
   {
-    "Number": "25-026",
+    "Numberz": "25-026",
     "Description": "SORTING VIBRATOR FEED BELT",
     "Location": "SORTING"
   },
   {
-    "Number": "25-027",
+    "Numberz": "25-027",
     "Description": "INSPECTION  SCRAP BELT",
     "Location": "SORTING"
   },
   {
-    "Number": "25-028",
+    "Numberz": "25-028",
     "Description": "INSPECTION FEED BELT",
     "Location": "SORTING"
   },
   {
-    "Number": "25-032",
+    "Numberz": "25-032",
     "Description": "SORTING FEEDER",
     "Location": "SORTING"
   },
   {
-    "Number": "25-033",
+    "Numberz": "25-033",
     "Description": "AIR CONDITIONER IN SORTING ROOM",
     "Location": "ROOF"
   },
   {
-    "Number": "25-034",
+    "Numberz": "25-034",
     "Description": "BREAKER DRUM EXIT VIBRATOR",
     "Location": "BREAKER DRUM"
   },
   {
-    "Number": "25-035",
+    "Numberz": "25-035",
     "Description": "BREAKER DRUM FEED VIBRATOR",
     "Location": "BREAKER DRUM"
   },
   {
-    "Number": "25-18000",
+    "Numberz": "25-18000",
     "Description": "OSHAS 18001 WORK ORDERS",
     "Location": "SORTING"
   },
   {
-    "Number": "25-500",
+    "Numberz": "25-500",
     "Description": "B.S.G. DEPT",
     "Location": "DISA"
   },
   {
-    "Number": "25-6666",
+    "Numberz": "25-6666",
     "Description": "LEAN PROJECT",
     "Location": "DISA"
   },
   {
-    "Number": "25-7777",
+    "Numberz": "25-7777",
     "Description": "SAFETY",
     "Location": "DISA"
   },
   {
-    "Number": "25-8888",
+    "Numberz": "25-8888",
     "Description": "MODIFICATION",
     "Location": "DISA"
   },
   {
-    "Number": "25-9999",
+    "Numberz": "25-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "DISA"
   },
   {
-    "Number": "26-001",
+    "Numberz": "26-001",
     "Description": "ROLL UP DOOR FOR FLOOR MOLDING-NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-002",
+    "Numberz": "26-002",
     "Description": "NORTH EXHAUST VENT FOR FLOOR MOLDING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-003",
+    "Numberz": "26-003",
     "Description": "SOUTH EXHAUST VENT FOR FLOOR MOLDING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-004",
+    "Numberz": "26-004",
     "Description": "#1 CONVEYOR FOR FLOOR MOLDING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-005",
+    "Numberz": "26-005",
     "Description": "#2 CONVEYOR FOR FLOOR MOLDING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-006",
+    "Numberz": "26-006",
     "Description": "#3 CONVEYOR FOR FLOOR MOLDING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-007",
+    "Numberz": "26-007",
     "Description": "#4 CONVEYOR FOR FLOOR MOLDING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-008",
+    "Numberz": "26-008",
     "Description": "#5 CONVEYOR FLOOR MOLDING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-009",
+    "Numberz": "26-009",
     "Description": "#6 CONVEYOR FOR FLOOR MOLDING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-010",
+    "Numberz": "26-010",
     "Description": "OVERHEAD CRANE FOR FLOOR MOLDING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-011",
+    "Numberz": "26-011",
     "Description": "FIRE SUPRESSION SYSTEM FOR FLOOR MOLDING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-012",
+    "Numberz": "26-012",
     "Description": "MOLD HANDLER",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-500",
+    "Numberz": "26-500",
     "Description": "FLOOR MOLDING- NO BAKE DEPARTMENT",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-6666",
+    "Numberz": "26-6666",
     "Description": "6S FOR FLOOR MODLING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "26-7777",
+    "Numberz": "26-7777",
     "Description": "SAFETY FOR FLOOR MOLDING- NO BAKE",
     "Location": "NO BAKE MOLDING"
   },
   {
-    "Number": "28-001",
+    "Numberz": "28-001",
     "Description": "MANIPULATOR",
     "Location": "HAMMER CELL"
   },
   {
-    "Number": "28-002",
+    "Numberz": "28-002",
     "Description": "SHOT MACHINE (HAMMER CELL)",
     "Location": "HAMMER CELL"
   },
   {
-    "Number": "28-003",
+    "Numberz": "28-003",
     "Description": "OVERHEAD CRANE",
     "Location": "HAMMER CELL"
   },
   {
-    "Number": "28-004",
+    "Numberz": "28-004",
     "Description": "OVERHEAD CRANE",
     "Location": "HAMMER CELL"
   },
   {
-    "Number": "28-005",
+    "Numberz": "28-005",
     "Description": "WHEELABRATOR SHOT BLAST",
     "Location": "NO BAKE"
   },
   {
-    "Number": "28-008",
+    "Numberz": "28-008",
     "Description": "BAGHOUSE -PANGBORN",
     "Location": "PANGBORN"
   },
   {
-    "Number": "28-013",
+    "Numberz": "28-013",
     "Description": "HAMMER CELL BAGHOUSE (TENKAY DUST COLLECTOR)",
     "Location": "HAMMER CELL"
   },
   {
-    "Number": "28-18000",
+    "Numberz": "28-18000",
     "Description": "OSHAS 18001 WORK ORDERS",
     "Location": "NO BAKE SHAKEOUT"
   },
   {
-    "Number": "28-500",
+    "Numberz": "28-500",
     "Description": "SHOT BLAST DEPT",
     "Location": "NO BAKE"
   },
   {
-    "Number": "28-6666",
+    "Numberz": "28-6666",
     "Description": "LEAN IN HAMMER CELL AREA",
     "Location": "HAMMER CELL"
   },
   {
-    "Number": "28-7777",
+    "Numberz": "28-7777",
     "Description": "SAFETY",
     "Location": "NO BAKE"
   },
   {
-    "Number": "28-8888",
+    "Numberz": "28-8888",
     "Description": "MODIFICATION",
     "Location": "NO BAKE"
   },
   {
-    "Number": "28-9999",
+    "Numberz": "28-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "29-003",
+    "Numberz": "29-003",
     "Description": "SWING FRAME GRINDER #1",
     "Location": "GRINDING"
   },
   {
-    "Number": "29-004",
+    "Numberz": "29-004",
     "Description": "SWING FRAME GRINDER  #2",
     "Location": "GRINDING"
   },
   {
-    "Number": "29-005",
+    "Numberz": "29-005",
     "Description": "SWING FRAME GRINDER #3",
     "Location": "GRINDING"
   },
   {
-    "Number": "29-006",
+    "Numberz": "29-006",
     "Description": "SWING FRAME GRINDER #4",
     "Location": "GRINDING"
   },
   {
-    "Number": "29-034",
+    "Numberz": "29-034",
     "Description": "SWING FRAME GRINDER  #5",
     "Location": "#5 GRINDER"
   },
   {
-    "Number": "29-045",
+    "Numberz": "29-045",
     "Description": "SWING FRAME GRINDER #6",
     "Location": "NO BAKE"
   },
   {
-    "Number": "29-048",
+    "Numberz": "29-048",
     "Description": "BELT SANDER",
     "Location": "NO BAKE FINISHING"
   },
   {
-    "Number": "29-049",
+    "Numberz": "29-049",
     "Description": "FLOOR STAND GRINDER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "29-050",
+    "Numberz": "29-050",
     "Description": "#1 CYCLONE",
     "Location": "N.B. GRINDERS"
   },
   {
-    "Number": "29-051",
+    "Numberz": "29-051",
     "Description": "#2 CYCLONE",
     "Location": "GRINDERS"
   },
   {
-    "Number": "29-056",
+    "Numberz": "29-056",
     "Description": "#9 SWING FRAME CUT OFF",
     "Location": "NO BAKE GRINDING"
   },
   {
-    "Number": "29-058",
+    "Numberz": "29-058",
     "Description": "#14 GRINDER",
     "Location": "GRINDERS"
   },
   {
-    "Number": "29-060",
+    "Numberz": "29-060",
     "Description": "SWING FRAME GRINDER #8",
     "Location": "FINISHING"
   },
   {
-    "Number": "29-061",
+    "Numberz": "29-061",
     "Description": "SWING FRAME GRINDER #7",
     "Location": "FINISHING"
   },
   {
-    "Number": "29-063",
+    "Numberz": "29-063",
     "Description": "#3 CYCLONE",
     "Location": "GRINDERS"
   },
   {
-    "Number": "29-067",
+    "Numberz": "29-067",
     "Description": "OVERHEAD CRANE",
     "Location": "OLD MAINT. SHOP."
   },
   {
-    "Number": "29-069",
+    "Numberz": "29-069",
     "Description": "AUTO GRINDING TABLE",
     "Location": "GRINDING"
   },
   {
-    "Number": "29-081",
+    "Numberz": "29-081",
     "Description": "SWING FRAME GRINDER #10",
     "Location": "FINISHING"
   },
   {
-    "Number": "29-500",
+    "Numberz": "29-500",
     "Description": "GRINDING DEPT",
     "Location": "NO BAKE"
   },
   {
-    "Number": "29-6666",
+    "Numberz": "29-6666",
     "Description": "LEAN PROJECT FOR GRINDING AREA",
     "Location": "FINISHING"
   },
   {
-    "Number": "29-7777",
+    "Numberz": "29-7777",
     "Description": "SAFETY",
     "Location": "OLD MAINT. SHOP"
   },
   {
-    "Number": "29-8888",
+    "Numberz": "29-8888",
     "Description": "MODIFICATION",
     "Location": "OLD MAINT. SHOP"
   },
   {
-    "Number": "29-9999",
+    "Numberz": "29-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "OLD MAINT. SHOP"
   },
   {
-    "Number": "30-001",
+    "Numberz": "30-001",
     "Description": "#8 QUENCH FURNACE",
     "Location": "NB/HEAT TREAT/FINISH"
   },
   {
-    "Number": "30-002",
+    "Numberz": "30-002",
     "Description": "MANIPULATOR",
     "Location": "#8 QUENCH FURNACE"
   },
   {
-    "Number": "30-500",
+    "Numberz": "30-500",
     "Description": "#8 QUENCH FURNACE MISC.",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "30-6666",
+    "Numberz": "30-6666",
     "Description": "LEAN PROJECT FOR NOBAKE HEAT TREAT",
     "Location": "NB/HEAT TREAT/FINISH"
   },
   {
-    "Number": "30-9999",
+    "Numberz": "30-9999",
     "Description": "PRODUCTION ASSISTANCE",
     "Location": "#8 QUENCH FURNACE"
   },
   {
-    "Number": "31-001",
+    "Numberz": "31-001",
     "Description": "#9 QUENCH FURNACE",
     "Location": "NB/HEAT TREAT/FINISH"
   },
   {
-    "Number": "31-002",
+    "Numberz": "31-002",
     "Description": "#1 AIR QUENCH FAN (NORTH)",
     "Location": "#9 QUENCH FURNACE"
   },
   {
-    "Number": "31-500",
+    "Numberz": "31-500",
     "Description": "#9 QUENCH MISC.",
     "Location": "#9 QUENCH FURNACE"
   },
   {
-    "Number": "31-9999",
+    "Numberz": "31-9999",
     "Description": "PRODUCTION ASSISTANCE",
     "Location": "#9 QUENCH FURNACE"
   },
   {
-    "Number": "32-001",
+    "Numberz": "32-001",
     "Description": "#10 QUENCH FURANCE",
     "Location": "NB/HEAT TREAT/FINISH"
   },
   {
-    "Number": "32-002",
+    "Numberz": "32-002",
     "Description": "#2 AIR QUENCH FAN (SOUTH)",
     "Location": "#10 QUENCH FURNACE"
   },
   {
-    "Number": "32-500",
+    "Numberz": "32-500",
     "Description": "#10 QUENCH FURNACE MISC",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "32-6666",
+    "Numberz": "32-6666",
     "Description": "6S FOR #10 QUENCH FURNACE",
     "Location": "NB/HEAT TREAT/FINISH"
   },
   {
-    "Number": "32-9999",
+    "Numberz": "32-9999",
     "Description": "PRODUCTION ASSISTANCE",
     "Location": "#10 QUENCH FURNACE"
   },
   {
-    "Number": "33-008",
+    "Numberz": "33-008",
     "Description": "AIR CONDITIONER",
     "Location": "NB/HEAT TREAT/FINISH"
   },
   {
-    "Number": "33-18000",
+    "Numberz": "33-18000",
     "Description": "OSHAS 18001 WORK ORDERS",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "33-500",
+    "Numberz": "33-500",
     "Description": "#6 QUENCH FURNACE DEPT",
     "Location": "NO BAKE"
   },
   {
-    "Number": "33-8888",
+    "Numberz": "33-8888",
     "Description": "MODIFICATION",
     "Location": "NO BAKE"
   },
   {
-    "Number": "33-9999",
+    "Numberz": "33-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "34-002",
+    "Numberz": "34-002",
     "Description": "#11 QUENCH FURNACE",
     "Location": "NB/HEAT TREAT/FINISH"
   },
   {
-    "Number": "34-003",
+    "Numberz": "34-003",
     "Description": "ROOF FANS",
     "Location": "#11 QUENCH FURNACE"
   },
   {
-    "Number": "34-501",
+    "Numberz": "34-501",
     "Description": "#11 QUENCH FURNACE MISC",
     "Location": "NB/HEAT TREAT/FINISH"
   },
   {
-    "Number": "34-7777",
+    "Numberz": "34-7777",
     "Description": "SAFETY",
     "Location": "NO BAKE"
   },
   {
-    "Number": "34-8888",
+    "Numberz": "34-8888",
     "Description": "MODIFICATION",
     "Location": "NO BAKE"
   },
   {
-    "Number": "34-9999",
+    "Numberz": "34-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "35-001",
+    "Numberz": "35-001",
     "Description": "QUENCH FURNACE #1",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-002",
+    "Numberz": "35-002",
     "Description": "LOAD VIBRATOR #1             #1 BIN",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-003",
+    "Numberz": "35-003",
     "Description": "LOAD VIBRATOR #2              #2 BIN",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-004",
+    "Numberz": "35-004",
     "Description": "LOAD VIBRATOR #3               #3 BIN",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-005",
+    "Numberz": "35-005",
     "Description": "LOAD VIBRATOR #4              #4 BIN",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-007",
+    "Numberz": "35-007",
     "Description": "QUENCH FAN #1",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-008",
+    "Numberz": "35-008",
     "Description": "QUENCH FAN #2",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-009",
+    "Numberz": "35-009",
     "Description": "AIR QUENCH CONVEYOR",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-010",
+    "Numberz": "35-010",
     "Description": "POLYMER SKIP HOIST",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-011",
+    "Numberz": "35-011",
     "Description": "RECIRCULATING PUMP",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-012",
+    "Numberz": "35-012",
     "Description": "HEAT EXCHANGER",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-013",
+    "Numberz": "35-013",
     "Description": "AGITATOR #1",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-015",
+    "Numberz": "35-015",
     "Description": "POWER SUPPLY FOR VIBRATOR",
     "Location": "#1 QUENCH"
   },
   {
-    "Number": "35-016",
+    "Numberz": "35-016",
     "Description": "TOLEDO SCALE",
     "Location": "#1 QUENCH"
   },
   {
-    "Number": "35-017",
+    "Numberz": "35-017",
     "Description": "MAGNET",
     "Location": "#1 QUENCH"
   },
   {
-    "Number": "35-018",
+    "Numberz": "35-018",
     "Description": "DISCHARGE SCALE",
     "Location": "#1 QUENCH"
   },
   {
-    "Number": "35-019",
+    "Numberz": "35-019",
     "Description": "AIR CONDITIONER",
     "Location": "#1&2 Q.F."
   },
   {
-    "Number": "35-020",
+    "Numberz": "35-020",
     "Description": "POLYMER DISCHARGE BIN VIBRATOR",
     "Location": "#1 QUENCH"
   },
   {
-    "Number": "35-021",
+    "Numberz": "35-021",
     "Description": "TRAY CARRIAGE SCALE",
     "Location": "#1 QUENCH"
   },
   {
-    "Number": "35-022",
+    "Numberz": "35-022",
     "Description": "#1 AIR  QUENCH SCREEN",
     "Location": "QUENCHING"
   },
   {
-    "Number": "35-500",
+    "Numberz": "35-500",
     "Description": "#1 QUENCH FURNACE DEPT",
     "Location": "DISA"
   },
   {
-    "Number": "35-6666",
+    "Numberz": "35-6666",
     "Description": "LEAN PROJECT",
     "Location": "#1 QUENCH"
   },
   {
-    "Number": "35-7777",
+    "Numberz": "35-7777",
     "Description": "SAFETY",
     "Location": "#1 QUENCH"
   },
   {
-    "Number": "35-8888",
+    "Numberz": "35-8888",
     "Description": "MODIFICATION",
     "Location": "#1 QUENCH"
   },
   {
-    "Number": "35-9999",
+    "Numberz": "35-9999",
     "Description": "EMPLOYEE   ASSISTANCE",
     "Location": "#1 QUENCH"
   },
   {
-    "Number": "36-001",
+    "Numberz": "36-001",
     "Description": "QUENCH FURNACE #2",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-002",
+    "Numberz": "36-002",
     "Description": "LOAD VIBRATOR #1              BIN 5",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-003",
+    "Numberz": "36-003",
     "Description": "LOAD VIBRATOR #2             BIN 6",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-004",
+    "Numberz": "36-004",
     "Description": "LOAD VIBRATOR #3             BIN 7",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-005",
+    "Numberz": "36-005",
     "Description": "LOAD VIBRATOR #4              BIN 8",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-007",
+    "Numberz": "36-007",
     "Description": "OIL SKIP HOIST",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-008",
+    "Numberz": "36-008",
     "Description": "DISCHARGE CONVEYOR #1",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-009",
+    "Numberz": "36-009",
     "Description": "DISCHARGE CONVEYOR #2",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-010",
+    "Numberz": "36-010",
     "Description": "HOLDING VIBRATOR #1         BIN 19",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-011",
+    "Numberz": "36-011",
     "Description": "HOLDING VIBRATOR #2           BIN 20",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-012",
+    "Numberz": "36-012",
     "Description": "HOLDING VIBRATOR #3           BIN 21",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-013",
+    "Numberz": "36-013",
     "Description": "HOLDING DISCHARGE CONVEYOR",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-014",
+    "Numberz": "36-014",
     "Description": "SCALE, CHARGE END",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-015",
+    "Numberz": "36-015",
     "Description": "COOLING FAN #1",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-016",
+    "Numberz": "36-016",
     "Description": "COOLING FAN #2",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-017",
+    "Numberz": "36-017",
     "Description": "COOLING FAN #3",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-018",
+    "Numberz": "36-018",
     "Description": "POLYMER QUENCH PUMP",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-020",
+    "Numberz": "36-020",
     "Description": "OIL AGITATOR #1",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-021",
+    "Numberz": "36-021",
     "Description": "OIL AGITATOR #2",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-022",
+    "Numberz": "36-022",
     "Description": "POWER SUPPLY FOR VIBRATORS",
     "Location": "#2 QUENCH"
   },
   {
-    "Number": "36-023",
+    "Numberz": "36-023",
     "Description": "POWER SUPPLY TO VIB DISCHARGE END",
     "Location": "#2 QUENCH"
   },
   {
-    "Number": "36-024",
+    "Numberz": "36-024",
     "Description": "POSITIONING CONVEYOR OVER BINS.",
     "Location": "#2 QUENCH"
   },
   {
-    "Number": "36-025",
+    "Numberz": "36-025",
     "Description": "HEAT EXCHANGER #1",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-027",
+    "Numberz": "36-027",
     "Description": "TRAY CARRIAGE SCALE",
     "Location": "#2 QUENCH"
   },
   {
-    "Number": "36-028",
+    "Numberz": "36-028",
     "Description": "TOLEDO SCALE, PORTABLE, 2000 LB.",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-029",
+    "Numberz": "36-029",
     "Description": "#2 AIR QUENCH SCREEN",
     "Location": "HEAT TREAT"
   },
   {
-    "Number": "36-030",
+    "Numberz": "36-030",
     "Description": "AUTO-TRAY SYSTEM  (1590401)",
     "Location": "#2 QUENCH"
   },
   {
-    "Number": "36-500",
+    "Numberz": "36-500",
     "Description": "#2 QUENCH FURNACE DEPT",
     "Location": "QUENCHING"
   },
   {
-    "Number": "36-6666",
+    "Numberz": "36-6666",
     "Description": "LEAN PROJECT",
     "Location": "#2 QUENCH"
   },
   {
-    "Number": "36-7777",
+    "Numberz": "36-7777",
     "Description": "SAFETY",
     "Location": "#2 QUENCH"
   },
   {
-    "Number": "36-8888",
+    "Numberz": "36-8888",
     "Description": "MODIFICATION",
     "Location": "#2 QUENCH"
   },
   {
-    "Number": "36-9999",
+    "Numberz": "36-9999",
     "Description": "EMPLOYEE   ASSISTANCE",
     "Location": "#2 QUENCH"
   },
   {
-    "Number": "37-001",
+    "Numberz": "37-001",
     "Description": "FURNACE #3 QUENCH",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-002",
+    "Numberz": "37-002",
     "Description": "VIBRATOR LOAD #1",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-003A",
+    "Numberz": "37-003A",
     "Description": "COOLING VIBRATOR #3 QUENCH FURNACE",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-005",
+    "Numberz": "37-005",
     "Description": "CONVEYOR #2 DISCHARGE                  (UP BELT)",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-007",
+    "Numberz": "37-007",
     "Description": "VIBRATOR (HOLDING #1)          VIB. 13",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-008",
+    "Numberz": "37-008",
     "Description": "VIBRATOR (HOLDING #2)           VIB. 14",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-009",
+    "Numberz": "37-009",
     "Description": "VIBRATOR (HOLDING #3)            VIB. 15",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-011",
+    "Numberz": "37-011",
     "Description": "CONVEYOR #1 LOAD",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-012",
+    "Numberz": "37-012",
     "Description": "CONVEYOR #2 LOAD",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-014",
+    "Numberz": "37-014",
     "Description": "FAN COOLING #1                      BLOWER #1",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-015",
+    "Numberz": "37-015",
     "Description": "FAN COOLING #2                       BLOWER #2",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-016",
+    "Numberz": "37-016",
     "Description": "FAN COOLING #3                        BLOWER #3",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-017",
+    "Numberz": "37-017",
     "Description": "SCALE               DRIVE ON,  BULK",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-018",
+    "Numberz": "37-018",
     "Description": "VIBRATOR POWER SUPPLY",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-019",
+    "Numberz": "37-019",
     "Description": "MAGNET",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-020",
+    "Numberz": "37-020",
     "Description": "MAGNET",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-021",
+    "Numberz": "37-021",
     "Description": "TRAY CARRIAGE SCALES",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-022",
+    "Numberz": "37-022",
     "Description": "TOLEDO SCALE, MAIN, 2000 LBS.",
     "Location": "QUENCHING"
   },
   {
-    "Number": "37-023",
+    "Numberz": "37-023",
     "Description": "HP FEEDER MODEL 200  VIBRATOR AT BIN 9",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-024A",
+    "Numberz": "37-024A",
     "Description": "NEW AUTO TRAY CARRIAGE",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-025",
+    "Numberz": "37-025",
     "Description": "HP FEEDER MODEL 200 VIBRATOR AT BIN 10",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-026",
+    "Numberz": "37-026",
     "Description": "HP FEEDER MODEL 200 VIBRATOR AT BIN 11",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-027",
+    "Numberz": "37-027",
     "Description": "HP FEEDER MODEL 200 VIBRATOR AT BIN 12",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-028",
+    "Numberz": "37-028",
     "Description": "MOBILE DRUM LID CLOSING UNIT",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-18000",
+    "Numberz": "37-18000",
     "Description": "OSHAS 18001 WORK ORDERS",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-500",
+    "Numberz": "37-500",
     "Description": "#3 QUENCH FURNACE DEPT",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-6666",
+    "Numberz": "37-6666",
     "Description": "LEAN PROJECT",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-7777",
+    "Numberz": "37-7777",
     "Description": "SAFETY",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-8888",
+    "Numberz": "37-8888",
     "Description": "MODIFICATION",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "37-9999",
+    "Numberz": "37-9999",
     "Description": "EMPLOYEE   ASSISTANCE",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "40-002",
+    "Numberz": "40-002",
     "Description": "VIBRATOR FEED",
     "Location": "#1 STRESS"
   },
   {
-    "Number": "40-006",
+    "Numberz": "40-006",
     "Description": "DISCHARGE SCALE",
     "Location": "#1 STRESS"
   },
   {
-    "Number": "40-008",
+    "Numberz": "40-008",
     "Description": "POWER SUPPLY FOR VIBRATOR",
     "Location": "STRESS REL"
   },
   {
-    "Number": "40-009",
+    "Numberz": "40-009",
     "Description": "BALL STORAGE BINS",
     "Location": "STRESS RELIEF"
   },
   {
-    "Number": "40-010",
+    "Numberz": "40-010",
     "Description": "GE 90/30 PLC  AREA CONVEYOR CONTROL",
     "Location": "STRESS RELIEF AREA"
   },
   {
-    "Number": "40-011",
+    "Numberz": "40-011",
     "Description": "SYNTRON ELECTROMAGNETIC FEEDER #1",
     "Location": "STRESS BIN #37"
   },
   {
-    "Number": "40-012",
+    "Numberz": "40-012",
     "Description": "SYNTRON ELECTROMAGNETIC FEEDER #2",
     "Location": "STRESS BIN #38"
   },
   {
-    "Number": "40-013",
+    "Numberz": "40-013",
     "Description": "SYNTRON ELECTROMAGNETIC FEEDER #3",
     "Location": "STRESS BIN #39"
   },
   {
-    "Number": "40-014",
+    "Numberz": "40-014",
     "Description": "SYNTRON ELECTROMAGNETIC FEEDER #4",
     "Location": "STRESS FLOOR BIN"
   },
   {
-    "Number": "40-015",
+    "Numberz": "40-015",
     "Description": "CHARGE CONVEYOR BINS 37 THRU 39",
     "Location": "STRESS BINS"
   },
   {
-    "Number": "40-016",
+    "Numberz": "40-016",
     "Description": "CROSSOVER CONVEYOR STRESS AND BULK SHIP",
     "Location": "STRESS RELIEF BINS"
   },
   {
-    "Number": "40-017",
+    "Numberz": "40-017",
     "Description": "TOLEDO SCALE, FURNACE TRAY CARRIAGE",
     "Location": "STRESS RELIEF"
   },
   {
-    "Number": "40-018",
+    "Numberz": "40-018",
     "Description": "DISCHARGE BELT UNDER BINS 37, 38, 39",
     "Location": "STRESS BINS"
   },
   {
-    "Number": "40-500",
+    "Numberz": "40-500",
     "Description": "#1 STRESS RELIEF DEPT",
     "Location": "DISA"
   },
   {
-    "Number": "40-7777",
+    "Numberz": "40-7777",
     "Description": "SAFETY",
     "Location": "DISA"
   },
   {
-    "Number": "40-8888",
+    "Numberz": "40-8888",
     "Description": "MODIFICATION",
     "Location": "DISA"
   },
   {
-    "Number": "40-9999",
+    "Numberz": "40-9999",
     "Description": "EMPLOYEE ASSISTANCE",
     "Location": "DISA"
   },
   {
-    "Number": "41-001",
+    "Numberz": "41-001",
     "Description": "FURNACE STRESS RELIEF #2",
     "Location": "#2 STRESS"
   },
   {
-    "Number": "41-002",
+    "Numberz": "41-002",
     "Description": "VIBRATOR COOLING",
     "Location": "#2 STRESS"
   },
   {
-    "Number": "41-003",
+    "Numberz": "41-003",
     "Description": "CONVEYOR DISCHARGE UP",
     "Location": "#2 STRESS"
   },
   {
-    "Number": "41-004",
+    "Numberz": "41-004",
     "Description": "VIBRATOR HOLDING BIN",
     "Location": "#2 STRESS"
   },
   {
-    "Number": "41-006",
+    "Numberz": "41-006",
     "Description": "FAN COOLING",
     "Location": "#2 STRESS"
   },
   {
-    "Number": "41-500",
+    "Numberz": "41-500",
     "Description": "#2 STRESS RELIEF DEPT",
     "Location": "DISA"
   },
   {
-    "Number": "41-7777",
+    "Numberz": "41-7777",
     "Description": "SAFETY",
     "Location": "DISA"
   },
   {
-    "Number": "41-8888",
+    "Numberz": "41-8888",
     "Description": "MODIFICATION",
     "Location": "DISA"
   },
   {
-    "Number": "41-9999",
+    "Numberz": "41-9999",
     "Description": "EMPLOYEE   ASSISTANCE",
     "Location": "DISA"
   },
   {
-    "Number": "42-001",
+    "Numberz": "42-001",
     "Description": "SALT BATH FURNACE",
     "Location": "HAMMER CELL"
   },
   {
-    "Number": "42-002",
+    "Numberz": "42-002",
     "Description": "SALT BATH COOLING FAN",
     "Location": "HAMMER CELL"
   },
   {
-    "Number": "42-500",
+    "Numberz": "42-500",
     "Description": "SALT BATH DEPT",
     "Location": "NO BAKE"
   },
   {
-    "Number": "42-7777",
+    "Numberz": "42-7777",
     "Description": "SAFETY",
     "Location": "NO BAKE"
   },
   {
-    "Number": "42-8888",
+    "Numberz": "42-8888",
     "Description": "MODIFICATION",
     "Location": "NO BAKE"
   },
   {
-    "Number": "42-9999",
+    "Numberz": "42-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "43-001",
+    "Numberz": "43-001",
     "Description": "#3 STRESS RELIEF FURNACE #7 FURNACE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "43-500",
+    "Numberz": "43-500",
     "Description": "#7 QUENCH FURNACE DEPT",
     "Location": "NO BAKE"
   },
   {
-    "Number": "43-7777",
+    "Numberz": "43-7777",
     "Description": "SAFETY",
     "Location": "NO BAKE"
   },
   {
-    "Number": "43-8888",
+    "Numberz": "43-8888",
     "Description": "MODIFICATION",
     "Location": "NO BAKE"
   },
   {
-    "Number": "43-9999",
+    "Numberz": "43-9999",
     "Description": "EMPLOYEE ASSISTANCE",
     "Location": "NO BAKE"
   },
   {
-    "Number": 43000,
+    "Numberz": 43000,
     "Description": "COST CENTER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "44-001",
+    "Numberz": "44-001",
     "Description": "#12 QUENCH FURNACE",
     "Location": "NB/HEAT TREAT/FINISH"
   },
   {
-    "Number": "44-002",
+    "Numberz": "44-002",
     "Description": "#3  AIR SCREEN",
     "Location": "NB/HEAT TREAT/FINISH"
   },
   {
-    "Number": "44-6666",
+    "Numberz": "44-6666",
     "Description": "LEAN FOR #12 FURNACE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "45-001",
+    "Numberz": "45-001",
     "Description": "UP CONVEYOR",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-013",
+    "Numberz": "45-013",
     "Description": "SCALE-DIGITAL",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-014",
+    "Numberz": "45-014",
     "Description": "SCALE-DIGITAL (PORTABLE SCALE)",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-015",
+    "Numberz": "45-015",
     "Description": "DIGITAL SCALE",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-016",
+    "Numberz": "45-016",
     "Description": "MAGNET",
     "Location": "SHIPP.DOCK"
   },
   {
-    "Number": "45-017",
+    "Numberz": "45-017",
     "Description": "MAGNET",
     "Location": "SHIP. DOCK"
   },
   {
-    "Number": "45-018",
+    "Numberz": "45-018",
     "Description": "DRIVE ON SCALE",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "45-019",
+    "Numberz": "45-019",
     "Description": "BULK SHIPPING SCALE                 WEIGH BINS",
     "Location": "RR"
   },
   {
-    "Number": "45-020",
+    "Numberz": "45-020",
     "Description": "BLENDING SCALE                          PREMIX",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-021",
+    "Numberz": "45-021",
     "Description": "AIR COMPRESSOR",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-022",
+    "Numberz": "45-022",
     "Description": "TRUCK SCALE, DRIVE ON SCALES",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-023",
+    "Numberz": "45-023",
     "Description": "TAURUS POSITIONING ARM",
     "Location": "SHIPPING BLDG."
   },
   {
-    "Number": "45-025",
+    "Numberz": "45-025",
     "Description": "TOLEDO SCALE, ASCAST BIN, 4000#",
     "Location": "#3 QUENCH"
   },
   {
-    "Number": "45-026",
+    "Numberz": "45-026",
     "Description": "GROUND DUMP CONVEYOR",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-027",
+    "Numberz": "45-027",
     "Description": "RADIATION DETECTION SYSTEM FOR SHIPPING & RAILROAD",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-028",
+    "Numberz": "45-028",
     "Description": "NEW SHIPPING LOADER SCALES (TOLEDO)",
     "Location": "SHIP/DISA-BUYBK SCRP"
   },
   {
-    "Number": "45-500",
+    "Numberz": "45-500",
     "Description": "SHIPPING DEPT",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-6666",
+    "Numberz": "45-6666",
     "Description": "LEAN FOR SHIPPING",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-7777",
+    "Numberz": "45-7777",
     "Description": "SAFETY",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-8888",
+    "Numberz": "45-8888",
     "Description": "MODIFICATION",
     "Location": "SHIPPING"
   },
   {
-    "Number": "45-9999",
+    "Numberz": "45-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "#1 ARC"
   },
   {
-    "Number": "49-300",
+    "Numberz": "49-300",
     "Description": "BALL SORTER",
     "Location": "SHIPPING"
   },
   {
-    "Number": "49-302",
+    "Numberz": "49-302",
     "Description": "ROTARY SHAKE OUT DRUM  (DIDION)",
     "Location": "CHAIN BLD."
   },
   {
-    "Number": "49-303A",
+    "Numberz": "49-303A",
     "Description": "DIDION DRUM BAGHOUSE",
     "Location": "SHIPPING"
   },
   {
-    "Number": "49-304",
+    "Numberz": "49-304",
     "Description": "DIDION DRUM VIBRATOR",
     "Location": "SHIPPING"
   },
   {
-    "Number": "49-305",
+    "Numberz": "49-305",
     "Description": "DIDION DRUM BELT",
     "Location": "SHIPPING"
   },
   {
-    "Number": "49-306",
+    "Numberz": "49-306",
     "Description": "FINGER BALL SORTER GENERAL KINEMATICS",
     "Location": "SHIPPING"
   },
   {
-    "Number": "49-307",
+    "Numberz": "49-307",
     "Description": "48\" OAW 220 1/8\" X 1/16\", 13' VULCANIZED ENDLESS",
     "Location": "SHIPPING"
   },
   {
-    "Number": "49-350",
+    "Numberz": "49-350",
     "Description": "TRUCK BALL SORTER",
     "Location": "ROAD TRUCK"
   },
   {
-    "Number": "49-500",
+    "Numberz": "49-500",
     "Description": "BALL SORTING MISC.",
     "Location": "SHIPPING"
   },
   {
-    "Number": "49-7777",
+    "Numberz": "49-7777",
     "Description": "SAFETY",
     "Location": "SHIPPING"
   },
   {
-    "Number": "49-8888",
+    "Numberz": "49-8888",
     "Description": "MODIFICATION",
     "Location": "SHIPPING"
   },
   {
-    "Number": 49300,
+    "Numberz": 49300,
     "Description": "BALL SORTER",
     "Location": "SHIPPING"
   },
   {
-    "Number": 49360,
+    "Numberz": 49360,
     "Description": "MAINTENANCE TO PLANT BALL SORTER",
     "Location": "SHIPPING"
   },
   {
-    "Number": "50-002",
+    "Numberz": "50-002",
     "Description": "VERTICAL MILL",
     "Location": "MAINT."
   },
   {
-    "Number": "50-003",
+    "Numberz": "50-003",
     "Description": "PIPE THREADER",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-012",
+    "Numberz": "50-012",
     "Description": "HYD PRESS",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-013",
+    "Numberz": "50-013",
     "Description": "ARBOR PRESS",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-017",
+    "Numberz": "50-017",
     "Description": "LATHE",
     "Location": "MAINTENANCE"
   },
   {
-    "Number": "50-018",
+    "Numberz": "50-018",
     "Description": "CHOP SAW",
     "Location": "MAINTENANCE"
   },
   {
-    "Number": "50-019",
+    "Numberz": "50-019",
     "Description": "THERMOCOUPLE CALIBRATOR",
     "Location": "MAINTENANCE SHOP"
   },
   {
-    "Number": "50-022",
+    "Numberz": "50-022",
     "Description": "OVERHEAD CRANE IN MAINTENANCE SHOP",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-025",
+    "Numberz": "50-025",
     "Description": "NO BAKE PLANNER",
     "Location": "NO BAKE"
   },
   {
-    "Number": "50-026",
+    "Numberz": "50-026",
     "Description": "DISA PLANNER",
     "Location": "DISA"
   },
   {
-    "Number": "50-028",
+    "Numberz": "50-028",
     "Description": "EYE WASH IN MAINTENANCE DEPARTMENT",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-030",
+    "Numberz": "50-030",
     "Description": "8 FT. STEP LADDER    (LOCATED AT DISA SAND COOLER)",
     "Location": "DISA"
   },
   {
-    "Number": "50-032",
+    "Numberz": "50-032",
     "Description": "20 FT. EXTENSION LADDER",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-033",
+    "Numberz": "50-033",
     "Description": "24 FT. EXTENSION LADDER",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-035",
+    "Numberz": "50-035",
     "Description": "8 FT. STEP DOUBLE SIDED LADDER,",
     "Location": "ABB FURNACE"
   },
   {
-    "Number": "50-044",
+    "Numberz": "50-044",
     "Description": "24 FOOT EXTENSION LADDER",
     "Location": "#1 ARC FUR"
   },
   {
-    "Number": "50-051",
+    "Numberz": "50-051",
     "Description": "20\" HEAVY DUTY DRILL PRESS",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-053",
+    "Numberz": "50-053",
     "Description": "LINCOLN RANGER 250 WELDER",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-054",
+    "Numberz": "50-054",
     "Description": "LINCOLN RANGER 10,000 WELDER, ELECTRIC",
     "Location": "MAINTENANCE SHOP"
   },
   {
-    "Number": "50-055",
+    "Numberz": "50-055",
     "Description": "LINCOLN RANGER 25O WELDER",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-056",
+    "Numberz": "50-056",
     "Description": "PRESSURE WASHER",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-059",
+    "Numberz": "50-059",
     "Description": "8 FT. DOUBLE STEP LADDER",
     "Location": "MAINTENANCE"
   },
   {
-    "Number": "50-061",
+    "Numberz": "50-061",
     "Description": "10' DOULBE SIDED STEP LADDER",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-063",
+    "Numberz": "50-063",
     "Description": "LINCOLN RANGER 250 WELDER",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-065",
+    "Numberz": "50-065",
     "Description": "2 TON FOLDING ENGINE HOIST",
     "Location": "MAINTENANCE SHOP"
   },
   {
-    "Number": "50-066",
+    "Numberz": "50-066",
     "Description": "DIGITAL THERMAL CAMERA",
     "Location": "MAINTENANCE SHOP"
   },
   {
-    "Number": "50-067",
+    "Numberz": "50-067",
     "Description": "MOTOR ANALYZER-ALL PRO IV PRO 2000",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-068",
+    "Numberz": "50-068",
     "Description": "RIDGID  PIPE THREADER",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-069",
+    "Numberz": "50-069",
     "Description": "6 FT STEP LADDER",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-070",
+    "Numberz": "50-070",
     "Description": "6 FT STEP LADDER (AT DISAMATIC)",
     "Location": "DISA"
   },
   {
-    "Number": "50-071",
+    "Numberz": "50-071",
     "Description": "24 FT. EXTENSION LADDER",
     "Location": "#2 ARC FURN."
   },
   {
-    "Number": "50-072",
+    "Numberz": "50-072",
     "Description": "6 FT. STEP LADDER",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-073",
+    "Numberz": "50-073",
     "Description": "6 FT. STEP LADDER",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-074",
+    "Numberz": "50-074",
     "Description": "8 FT. STEP LADDER",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-075",
+    "Numberz": "50-075",
     "Description": "8 FT. STEP LADDER",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-076",
+    "Numberz": "50-076",
     "Description": "LINCOLN INVERTEC V350-PRO",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-077",
+    "Numberz": "50-077",
     "Description": "8 FT. LADDER",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-078",
+    "Numberz": "50-078",
     "Description": "8 FT. LADDER",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-079",
+    "Numberz": "50-079",
     "Description": "8 FT. LADDER",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-080",
+    "Numberz": "50-080",
     "Description": "10 FT. LADDER",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-081",
+    "Numberz": "50-081",
     "Description": "10 FT. LADDER",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-082",
+    "Numberz": "50-082",
     "Description": "20 FT. EXTENSION LADDER #1 ARC",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-083",
+    "Numberz": "50-083",
     "Description": "10-FT STEP LADDER",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-084",
+    "Numberz": "50-084",
     "Description": "20\" VARIABLE SPEED DRILL PRESS",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-085",
+    "Numberz": "50-085",
     "Description": "10\" X 16\" HORIZONTAL BAND SAW",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-500",
+    "Numberz": "50-500",
     "Description": "MAINTENANCE SHOP",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "50-6666",
+    "Numberz": "50-6666",
     "Description": "LEAN PROJECT",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-7777-1",
+    "Numberz": "50-7777-1",
     "Description": "MAINTENANCE SAFETY - DISA",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-7777-2",
+    "Numberz": "50-7777-2",
     "Description": "MAINTENANCE SAFETY - NO BAKE",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "50-8888",
+    "Numberz": "50-8888",
     "Description": "MODIFICATION",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "52-500",
+    "Numberz": "52-500",
     "Description": "MEDICAL EXAMINATIONS (HEALTH SCREENINGS)",
     "Location": "PLANT"
   },
   {
-    "Number": "52-600",
+    "Numberz": "52-600",
     "Description": "EMPLOYEE SAFETY",
     "Location": "PLANT"
   },
   {
-    "Number": "52-800D",
+    "Numberz": "52-800D",
     "Description": "SEMINARS, WORK SHOPS, ETC",
     "Location": "DISA"
   },
   {
-    "Number": "52-800N",
+    "Numberz": "52-800N",
     "Description": "SEMINARS, WORK SHOPS, ETC.",
     "Location": "NO BAKE"
   },
   {
-    "Number": "52-900",
+    "Numberz": "52-900",
     "Description": "EMPLOYEE ACCT.",
     "Location": "PLANT"
   },
   {
-    "Number": 52600,
+    "Numberz": 52600,
     "Description": "EMPLOYEE SAFETY",
     "Location": "PLANT"
   },
   {
-    "Number": 52800,
+    "Numberz": 52800,
     "Description": "EMPLOYEE EDUCATION",
     "Location": "PLANT"
   },
   {
-    "Number": 52905,
+    "Numberz": 52905,
     "Description": "MOVE STRESS RELIEF EXTENSION",
     "Location": "DISA"
   },
   {
-    "Number": "54100-650",
+    "Numberz": "54100-650",
     "Description": "NASHVILLE CDC AGGREGATE LAB",
     "Location": "RESEARCH"
   },
   {
-    "Number": 54303,
+    "Numberz": 54303,
     "Description": "MAJOR MAINT. FOR #3 ARC FURNACE",
     "Location": "#3 ARC FURN"
   },
   {
-    "Number": 54310,
+    "Numberz": 54310,
     "Description": "RAIL CAR BLOWER (10-022)",
     "Location": "SAND PLANT"
   },
   {
-    "Number": 54325,
+    "Numberz": 54325,
     "Description": "WIRING VIBRATOR & SORTER IN SCRAP BLDG.",
     "Location": "SCRAP AREA"
   },
   {
-    "Number": 54340,
+    "Numberz": 54340,
     "Description": "BALL SEPARATION WEIGH SYSTEM #1 STRESS RELIEF",
     "Location": "#1 STRESS"
   },
   {
-    "Number": 54341,
+    "Numberz": 54341,
     "Description": "BALL SEPARATION WEIGH SYSTEM #2 STRESS RELIEF",
     "Location": "#2 STRESS"
   },
   {
-    "Number": 54409,
+    "Numberz": 54409,
     "Description": "AIR QUENCH TEST PROJECT",
     "Location": ""
   },
   {
-    "Number": 54450,
+    "Numberz": 54450,
     "Description": "BUILD NEW TOPPING BIN",
     "Location": "-"
   },
   {
-    "Number": 54465,
+    "Numberz": 54465,
     "Description": "PRODUCTION SUPPLY ENVIRONMENTAL",
     "Location": "-"
   },
   {
-    "Number": 54700,
+    "Numberz": 54700,
     "Description": "BUILD TABLE  FOR GRINDING MEDIA TESTER",
     "Location": "-"
   },
   {
-    "Number": "55-001",
+    "Numberz": "55-001",
     "Description": "MOISTURE TELLER",
     "Location": "LAB"
   },
   {
-    "Number": "55-002",
+    "Numberz": "55-002",
     "Description": "SCALE",
     "Location": "LAB"
   },
   {
-    "Number": "55-003",
+    "Numberz": "55-003",
     "Description": "AUTO-CLAY, SAND WASHER",
     "Location": "#1 ARC"
   },
   {
-    "Number": "55-004",
+    "Numberz": "55-004",
     "Description": "TENSIL TESTER               (SAND TESTER)",
     "Location": "LAB"
   },
   {
-    "Number": "55-005",
+    "Numberz": "55-005",
     "Description": "PERMMETER TESTER",
     "Location": "LAB"
   },
   {
-    "Number": "55-008",
+    "Numberz": "55-008",
     "Description": "HARDNESS TESTER",
     "Location": "LAB"
   },
   {
-    "Number": "55-012",
+    "Numberz": "55-012",
     "Description": "DISC SANDER POLISHER",
     "Location": "LAB"
   },
   {
-    "Number": "55-013",
+    "Numberz": "55-013",
     "Description": "X-RAY MACHINE",
     "Location": "LAB"
   },
   {
-    "Number": "55-015",
+    "Numberz": "55-015",
     "Description": "FURNACE-CHEM. LAB",
     "Location": "WET LAB"
   },
   {
-    "Number": "55-016",
+    "Numberz": "55-016",
     "Description": "FISHER FURNACE             (SAMPLE)",
     "Location": "WET LAB"
   },
   {
-    "Number": "55-018",
+    "Numberz": "55-018",
     "Description": "BELT SANDER",
     "Location": "LAB"
   },
   {
-    "Number": "55-020",
+    "Numberz": "55-020",
     "Description": "BAGHOUSE",
     "Location": "LAB"
   },
   {
-    "Number": "55-021",
+    "Numberz": "55-021",
     "Description": "ABRASIVE SAW WITH BELTS",
     "Location": "LAB"
   },
   {
-    "Number": "55-022",
+    "Numberz": "55-022",
     "Description": "RADIAL SAW",
     "Location": "LAB"
   },
   {
-    "Number": "55-023",
+    "Numberz": "55-023",
     "Description": "DRILL PRESS USED TO CUT BALLS",
     "Location": "LAB"
   },
   {
-    "Number": "55-026",
+    "Numberz": "55-026",
     "Description": "SAND RAMMER",
     "Location": "LAB"
   },
   {
-    "Number": "55-028",
+    "Numberz": "55-028",
     "Description": "GRINDING & POLISHING MACHINE",
     "Location": "LAB"
   },
   {
-    "Number": "55-032",
+    "Numberz": "55-032",
     "Description": "BELT GRINDER",
     "Location": "LAB"
   },
   {
-    "Number": "55-033",
+    "Numberz": "55-033",
     "Description": "ED-252/50 AMP CHAVALIER EDM MACHINE",
     "Location": "LAB"
   },
   {
-    "Number": "55-059",
+    "Numberz": "55-059",
     "Description": "SPECTROMETER SYSTEM, MODEL 3460",
     "Location": "LAB"
   },
   {
-    "Number": "55-061",
+    "Numberz": "55-061",
     "Description": "MOLD QUALITY INDICATOR",
     "Location": "LAB"
   },
   {
-    "Number": "55-062",
+    "Numberz": "55-062",
     "Description": "ELECTRIC PERMEABILITY METER PED",
     "Location": "LAB"
   },
   {
-    "Number": "55-063",
+    "Numberz": "55-063",
     "Description": "PNEUMATIC COMPACTIBILTY  PVG-P",
     "Location": "LAB"
   },
   {
-    "Number": "55-064",
+    "Numberz": "55-064",
     "Description": "BELT SANDER",
     "Location": "LAB"
   },
   {
-    "Number": "55-065",
+    "Numberz": "55-065",
     "Description": "FLOOR STAND GRINDER",
     "Location": "LAB"
   },
   {
-    "Number": "55-500",
+    "Numberz": "55-500",
     "Description": "LAB DEPT",
     "Location": "LAB"
   },
   {
-    "Number": "55-6666",
+    "Numberz": "55-6666",
     "Description": "LEAN PROJECT",
     "Location": "LAB"
   },
   {
-    "Number": "55-7777",
+    "Numberz": "55-7777",
     "Description": "SAFETY",
     "Location": "LAB"
   },
   {
-    "Number": "55-8888",
+    "Numberz": "55-8888",
     "Description": "MODIFICATION",
     "Location": "LAB"
   },
   {
-    "Number": "55-9999",
+    "Numberz": "55-9999",
     "Description": "EMPLOYEE ASSISTANCE",
     "Location": "LAB"
   },
   {
-    "Number": "56-003",
+    "Numberz": "56-003",
     "Description": "MAGNA FLUX TESTER",
     "Location": "Q/A"
   },
   {
-    "Number": "56-004",
+    "Numberz": "56-004",
     "Description": "TAURUS POSITIONING ARM",
     "Location": "Q/A"
   },
   {
-    "Number": "56-006",
+    "Numberz": "56-006",
     "Description": "GROMAX P60 EDM MACHINE",
     "Location": "QC ROOM"
   },
   {
-    "Number": "56-500",
+    "Numberz": "56-500",
     "Description": "QUALITY ASSURANCE DEPT",
     "Location": "NO BAKE"
   },
   {
-    "Number": "56-6666",
+    "Numberz": "56-6666",
     "Description": "LEAN FOR QC AREA",
     "Location": "QC ROOM"
   },
   {
-    "Number": "56-7777",
+    "Numberz": "56-7777",
     "Description": "SAFETY",
     "Location": "QC ROOM"
   },
   {
-    "Number": "56-8888",
+    "Numberz": "56-8888",
     "Description": "MODIFICATION",
     "Location": "QC ROOM"
   },
   {
-    "Number": "56-9999",
+    "Numberz": "56-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "QC ROOM"
   },
   {
-    "Number": 58200,
+    "Numberz": 58200,
     "Description": "TRAINING, SEMINARS, ETC.",
     "Location": "PLANT"
   },
   {
-    "Number": "59-001",
+    "Numberz": "59-001",
     "Description": "CARDBOARD BAILER",
     "Location": "TOOL CRIB"
   },
   {
-    "Number": "59-002",
+    "Numberz": "59-002",
     "Description": "FLAMMABLE MATERIAL STORAGE BUILDING",
     "Location": "TOOL CRIB"
   },
   {
-    "Number": "59-500",
+    "Numberz": "59-500",
     "Description": "TOOL CRIB AND WAREHOUSE DEPT",
     "Location": "TOOL CRIB"
   },
   {
-    "Number": "59-6666",
+    "Numberz": "59-6666",
     "Description": "6S FOR TOOL CRIB",
     "Location": ""
   },
   {
-    "Number": "59-7777",
+    "Numberz": "59-7777",
     "Description": "TOOL CRIB SAFETY",
     "Location": "TOOL CRIB"
   },
   {
-    "Number": "59-9999",
+    "Numberz": "59-9999",
     "Description": "EMPLOYEE ASSISTANCE",
     "Location": "TOOL CRIB"
   },
   {
-    "Number": "60-004",
+    "Numberz": "60-004",
     "Description": "PUMP (COLD SUMP ARC FURNACE)",
     "Location": "ARC FUN."
   },
   {
-    "Number": "60-005",
+    "Numberz": "60-005",
     "Description": "PUMP (HOT SUMP)",
     "Location": "ARC FUR."
   },
   {
-    "Number": "60-006",
+    "Numberz": "60-006",
     "Description": "COOLING TOWER",
     "Location": "ARC FUR."
   },
   {
-    "Number": "60-007",
+    "Numberz": "60-007",
     "Description": "AIR MAKE UP UNIT",
     "Location": "N.&W. WALL"
   },
   {
-    "Number": "60-034",
+    "Numberz": "60-034",
     "Description": "DRUM CRUSHER",
     "Location": "BLANCHARD GRINDER"
   },
   {
-    "Number": "60-038",
+    "Numberz": "60-038",
     "Description": "#5 AIR COMPRESSOR 150HP",
     "Location": "NO BAKE COMP. ROOM"
   },
   {
-    "Number": "60-048",
+    "Numberz": "60-048",
     "Description": "AIR COMPRESSOR #3",
     "Location": "SHIPPING"
   },
   {
-    "Number": "60-053",
+    "Numberz": "60-053",
     "Description": "POWER DISTRIBUTION CENTER",
     "Location": "POWER CENTER"
   },
   {
-    "Number": "60-054",
+    "Numberz": "60-054",
     "Description": "FIRE EXTINGUISHERS",
     "Location": "NO BAKE"
   },
   {
-    "Number": "60-056",
+    "Numberz": "60-056",
     "Description": "POWER GENERATOR AND TRAILER",
     "Location": "POWER CENTER"
   },
   {
-    "Number": "60-060",
+    "Numberz": "60-060",
     "Description": "#9 INGERSOL RAND AIR COMPRESSOR (MIDDLE)",
     "Location": "AC ROOM #2"
   },
   {
-    "Number": "60-061",
+    "Numberz": "60-061",
     "Description": "COOPER TRANSFORMER 13200 TO 480",
     "Location": "AC ROOM #2"
   },
   {
-    "Number": "60-064",
+    "Numberz": "60-064",
     "Description": "OIL/WATER SEPARATOR FOR COMPRESSOR ROOM 2",
     "Location": "#3 ARC HYD. ROOM"
   },
   {
-    "Number": "60-065",
+    "Numberz": "60-065",
     "Description": "INTELLI FLOW SYSTEM PRESSURE CONTROLLER",
     "Location": "AC ROOM #2"
   },
   {
-    "Number": "60-066",
+    "Numberz": "60-066",
     "Description": "COMPRESSED AIR FILTER",
     "Location": "AC ROOM #2"
   },
   {
-    "Number": "60-067",
+    "Numberz": "60-067",
     "Description": "AIR DRYER",
     "Location": "#5 COMPRESSOR"
   },
   {
-    "Number": "60-068",
+    "Numberz": "60-068",
     "Description": "HIGH SPEED ROLLUP DOOR AT DISA",
     "Location": "DISA"
   },
   {
-    "Number": "60-069",
+    "Numberz": "60-069",
     "Description": "DIDION COMPRESSOR-SHIPPING",
     "Location": "BALL SORTING"
   },
   {
-    "Number": "60-070",
+    "Numberz": "60-070",
     "Description": "FAST ROLL UP DOOR AT GRINDERS",
     "Location": "N.B. FIN."
   },
   {
-    "Number": "60-071",
+    "Numberz": "60-071",
     "Description": "#11 INGERSOL RAND AIR COMPRESSOR  (EAST)",
     "Location": "AC ROOM #2"
   },
   {
-    "Number": "60-072",
+    "Numberz": "60-072",
     "Description": "#12 INGERSOLL RAND AIR COMPRESSOR (MIDDLE)",
     "Location": "A.C. ROOM"
   },
   {
-    "Number": "60-073",
+    "Numberz": "60-073",
     "Description": "#13 INGERSOLL RAND AIR COMPRESSOR (WEST)",
     "Location": "AC ROOM #2"
   },
   {
-    "Number": "60-074",
+    "Numberz": "60-074",
     "Description": "DISA COOLING TOWER",
     "Location": "DISA"
   },
   {
-    "Number": "60-18000",
+    "Numberz": "60-18000",
     "Description": "OSHAS 18001 WORK ORDERS",
     "Location": "PLANT"
   },
   {
-    "Number": "60-501",
+    "Numberz": "60-501",
     "Description": "BUILDING",
     "Location": "DISA"
   },
   {
-    "Number": "60-502",
+    "Numberz": "60-502",
     "Description": "BUILDING",
     "Location": "NO BAKE"
   },
   {
-    "Number": "60-6666",
+    "Numberz": "60-6666",
     "Description": "LEAN PROJECT PLANT",
     "Location": "PLANT"
   },
   {
-    "Number": "60-7777",
+    "Numberz": "60-7777",
     "Description": "SAFETY",
     "Location": "PLANT"
   },
   {
-    "Number": "60-8888",
+    "Numberz": "60-8888",
     "Description": "MODIFICATION",
     "Location": "PLANT"
   },
   {
-    "Number": "60-9999",
+    "Numberz": "60-9999",
     "Description": "EMPLOYEE ASSISTANCE",
     "Location": "PLANT"
   },
   {
-    "Number": "60100-790",
+    "Numberz": "60100-790",
     "Description": "TIPPING VALVE FROM MEXICO",
     "Location": "DISA"
   },
   {
-    "Number": "65-001",
+    "Numberz": "65-001",
     "Description": "OIL SKIMMER, MODEL 8",
     "Location": "OLD MAINT. SHOP"
   },
   {
-    "Number": "65-002",
+    "Numberz": "65-002",
     "Description": "OIL WATER GRAVITY SEPARATOR",
     "Location": "OLD MAINT. SHOP"
   },
   {
-    "Number": "65-504",
+    "Numberz": "65-504",
     "Description": "PLANT SETTLING POND",
     "Location": "PLANT"
   },
   {
-    "Number": "65-6666",
+    "Numberz": "65-6666",
     "Description": "LEAN PROJECT FOR ENVIRONMENTAL",
     "Location": "PLANT"
   },
   {
-    "Number": "65-7777",
+    "Numberz": "65-7777",
     "Description": "SAFETY",
     "Location": "PLANT"
   },
   {
-    "Number": "65-8888",
+    "Numberz": "65-8888",
     "Description": "MODIFICATION",
     "Location": "PLANT"
   },
   {
-    "Number": "65-9999",
+    "Numberz": "65-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "PLANT"
   },
   {
-    "Number": "70-075",
+    "Numberz": "70-075",
     "Description": "TOYOTA CLASS I LIFT TRUCK,4000# CAPACITY (BATTERY)",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "70-079",
+    "Numberz": "70-079",
     "Description": "TENNANT POLAR BEAR SWEEPER",
     "Location": "PLANT"
   },
   {
-    "Number": "70-095A",
+    "Numberz": "70-095A",
     "Description": "SERVICE 928G CATERPILLAR LOADER",
     "Location": "SHIPPING"
   },
   {
-    "Number": "70-105",
+    "Numberz": "70-105",
     "Description": "NISSAN F04D40-50V FORKLIFT",
     "Location": "MAINT. SHOP"
   },
   {
-    "Number": "70-108",
+    "Numberz": "70-108",
     "Description": "VOLVO L70E LOADER",
     "Location": "SLAG PIT"
   },
   {
-    "Number": "70-110",
+    "Numberz": "70-110",
     "Description": "NISSAN PFD60 FORKLIFT S/N 9M0124",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "70-115",
+    "Numberz": "70-115",
     "Description": "NISSAN JPD110H  FORKLIFT S/N AN28B-60252",
     "Location": "RETURN SCRAP"
   },
   {
-    "Number": "70-117A",
+    "Numberz": "70-117A",
     "Description": "NISSIAN JPD110H FORKLIFT S/N     AN28B-70260",
     "Location": "QC"
   },
   {
-    "Number": "70-121",
+    "Numberz": "70-121",
     "Description": "BRODERSON IC-200-3D CRANE",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "70-122",
+    "Numberz": "70-122",
     "Description": "TENNANT 800 D SWEEPER (REPLACES 70-107)",
     "Location": "PLANT"
   },
   {
-    "Number": "70-123",
+    "Numberz": "70-123",
     "Description": "NISSAN FORKLIFT FOR NO BAKE MOLD LINE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "70-126",
+    "Numberz": "70-126",
     "Description": "VOLVO WHEEL LOADER",
     "Location": "CHARGE PREP DEPARTMENT"
   },
   {
-    "Number": "70-127",
+    "Numberz": "70-127",
     "Description": "YARD TRUCK (REPLACES 70-052)",
     "Location": "SHP/NB/MOVING CASTIN"
   },
   {
-    "Number": "70-130",
+    "Numberz": "70-130",
     "Description": "NISSAN PFD60 FORKLIFT S/N YG1F2-9M0907",
     "Location": "TOOL CRIB"
   },
   {
-    "Number": "70-131",
+    "Numberz": "70-131",
     "Description": "TENNANT SWEEPER  (LITTLE SWEEPER)",
     "Location": "PLANT"
   },
   {
-    "Number": "70-132",
+    "Numberz": "70-132",
     "Description": "NISSAN MDG1F4A50V FORKLIFT S/N DG1F4-910016",
     "Location": "NB/HEAT TREAT/FINISH"
   },
   {
-    "Number": "70-133",
+    "Numberz": "70-133",
     "Description": "NISSAN MDG1F4A50V FORKLIFT S/N DG1F4-910017",
     "Location": "NO BAKE/POURING"
   },
   {
-    "Number": "70-134",
+    "Numberz": "70-134",
     "Description": "UNICARRIERS MDG1F4A50V FORKLIFT S/N DG1F4-910036",
     "Location": "ROLLER ROOM"
   },
   {
-    "Number": "70-135",
+    "Numberz": "70-135",
     "Description": "UNICARRIERS MDG1F4A50V FORKLIFT S/N DG1F4-910039",
     "Location": "SHIPPING"
   },
   {
-    "Number": "70-136",
+    "Numberz": "70-136",
     "Description": "UNICARRIERS MDG1F4A50V FORKLIFT S/N DG1F4-910038",
     "Location": "DISA HT"
   },
   {
-    "Number": "70-137",
+    "Numberz": "70-137",
     "Description": "UNICARRIERS MDG1F4A50V FORKLIFT S/N DG1F4-910042",
     "Location": "CHARGE PREP DEPARTMENT"
   },
   {
-    "Number": "70-138",
+    "Numberz": "70-138",
     "Description": "UNICARRIERS MDG1F4A50V FORKLIFT S/N DG1F4-910037",
     "Location": "SHIPPING"
   },
   {
-    "Number": "70-139",
+    "Numberz": "70-139",
     "Description": "UNICARRIERS MDG1F4A-50V FORKLIFT S/N DG1F4-912002",
     "Location": "MAINT SHOP"
   },
   {
-    "Number": "70-140",
+    "Numberz": "70-140",
     "Description": "UNICARRIERS MDG1F4A50V FORKLIFT S/N DG1F4-912006",
     "Location": "N.B. GRINDERS"
   },
   {
-    "Number": "70-141",
+    "Numberz": "70-141",
     "Description": "UNICARRIERS L1F6F70V FORKLIFT S/N 30530214",
     "Location": "LADLE REPAIR"
   },
   {
-    "Number": "70-142",
+    "Numberz": "70-142",
     "Description": "UNICARRIERS-FORKLIFT- 4000#  CAPACITY (BATTERY)",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "70-143",
+    "Numberz": "70-143",
     "Description": "UNICARRIERS MDG1F4A50V FORKLIFT DISA/SORTING",
     "Location": "DISA/SHAKEOUT/SORT"
   },
   {
-    "Number": "70-144",
+    "Numberz": "70-144",
     "Description": "VOLVO WHEEL LOADER",
     "Location": "CHARGE PREP DEPARTMENT"
   },
   {
-    "Number": "70-500",
+    "Numberz": "70-500",
     "Description": "MISC FORKLIFT REPAIRS",
     "Location": "PLANT"
   },
   {
-    "Number": "70-7777",
+    "Numberz": "70-7777",
     "Description": "SAFETY",
     "Location": "NO BAKE"
   },
   {
-    "Number": "70-8888",
+    "Numberz": "70-8888",
     "Description": "MODIFICATION",
     "Location": "NO BAKE"
   },
   {
-    "Number": "70-9999",
+    "Numberz": "70-9999",
     "Description": "EMPLOYEE   ASSISTANCE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "742-00",
+    "Numberz": "742-00",
     "Description": "FRONT OFFICE DEPT",
     "Location": "FRONT OFFICE DEPT"
   },
   {
-    "Number": "742-01",
+    "Numberz": "742-01",
     "Description": "AIR CONDITING & HEATING UNIT (OLD PATTERN/ENGINEE",
     "Location": "PATTERN SHOP"
   },
   {
-    "Number": "742-02",
+    "Numberz": "742-02",
     "Description": "AIR CONDITIONER",
     "Location": "OFF. ROOF"
   },
   {
-    "Number": "742-03",
+    "Numberz": "742-03",
     "Description": "AIR CONDITIONER",
     "Location": "OFF. ROOF"
   },
   {
-    "Number": "742-04",
+    "Numberz": "742-04",
     "Description": "COMPUTER ROOM AIR CONDITIONER",
     "Location": "COMPUTER ROOM ROOF"
   },
   {
-    "Number": "742-05",
+    "Numberz": "742-05",
     "Description": "(PURCHASING) AIR CONDITIONER",
     "Location": "OFF. ROOF"
   },
   {
-    "Number": "742-06",
+    "Numberz": "742-06",
     "Description": "AIR CONDITIONER",
     "Location": "OFF. ROOF"
   },
   {
-    "Number": "742-07",
+    "Numberz": "742-07",
     "Description": "AIR CONDITIONER",
     "Location": "OFF.ROOF"
   },
   {
-    "Number": "742-08",
+    "Numberz": "742-08",
     "Description": "(SCHEDULING) AIR CONDITIONING (REPLACED  8-15-08)",
     "Location": "OFF. ROOF"
   },
   {
-    "Number": "742-09",
+    "Numberz": "742-09",
     "Description": "RESEARCH AIR CONDITIONER",
     "Location": "RESEARCH"
   },
   {
-    "Number": "742-10",
+    "Numberz": "742-10",
     "Description": "ACCOUNTING AIR CONDITIONER",
     "Location": "OF. ROOF"
   },
   {
-    "Number": "742-11",
+    "Numberz": "742-11",
     "Description": "(ENGINEERING) AIR CONDITING",
     "Location": "OFF. ROOF"
   },
   {
-    "Number": "742-12",
+    "Numberz": "742-12",
     "Description": "UNIVERSITY AIR CONDITIONER",
     "Location": "UNIVERSITY"
   },
   {
-    "Number": "742-13",
+    "Numberz": "742-13",
     "Description": "ICP COMMERICAL - BREAKROOM AIR CONDITIONER",
     "Location": "OFF. ROOF"
   },
   {
-    "Number": "742-14",
+    "Numberz": "742-14",
     "Description": "LOCKER ROOM AIR CONDITIONER",
     "Location": "LOCKER ROOM ROOF"
   },
   {
-    "Number": "742-16",
+    "Numberz": "742-16",
     "Description": "LAB AIR CONDITIONER",
     "Location": "ROOF POS #6"
   },
   {
-    "Number": "742-17",
+    "Numberz": "742-17",
     "Description": "(ENGINEERING) AIR CONDITIONER",
     "Location": "ROOF"
   },
   {
-    "Number": "742-18",
+    "Numberz": "742-18",
     "Description": "PLANT MANAGER'S   OFFICE AIR CONDITIONER",
     "Location": "OFFICE ROOF"
   },
   {
-    "Number": "742-19",
+    "Numberz": "742-19",
     "Description": "SPECTOMETER LAB AIR CONDITIONER",
     "Location": "SPECTOMETER LAB"
   },
   {
-    "Number": "742-20",
+    "Numberz": "742-20",
     "Description": "AIR CONDITIONER (RECEPTIONIST)",
     "Location": "OFF. ROOF"
   },
   {
-    "Number": "742-35",
+    "Numberz": "742-35",
     "Description": "SMOKING BREAKROOM AIR CONDITIONER",
     "Location": "OFF. ROOF"
   },
   {
-    "Number": "742-36",
+    "Numberz": "742-36",
     "Description": "CLANSMAN AIR CONDITIONER",
     "Location": "ROOF"
   },
   {
-    "Number": "742-37",
+    "Numberz": "742-37",
     "Description": "AIR CONDITONER IN NEW CONFERENCE ROOM/OFFICES",
     "Location": "ROOF"
   },
   {
-    "Number": "742-38",
+    "Numberz": "742-38",
     "Description": "AIR CONDITIONER IN  MACHINING CENTER",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "742-39",
+    "Numberz": "742-39",
     "Description": "#1 & 3 ARC FURNACE AIR CONDITIONER",
     "Location": "#1 & 3 ARC FURNACE"
   },
   {
-    "Number": "742-40",
+    "Numberz": "742-40",
     "Description": "SORTING ROOM AIR CONDITIONER",
     "Location": "ROOF"
   },
   {
-    "Number": "742-500",
+    "Numberz": "742-500",
     "Description": "MISC. AIR CONDITIONER REPAIRS",
     "Location": "VARIOUS LOCATIONS"
   },
   {
-    "Number": "742-7777",
+    "Numberz": "742-7777",
     "Description": "SAFETY",
     "Location": "NO BAKE"
   },
   {
-    "Number": "742-8888",
+    "Numberz": "742-8888",
     "Description": "MODIFICATION",
     "Location": "NO BAKE"
   },
   {
-    "Number": "742-9999",
+    "Numberz": "742-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "NO BAKE"
   },
   {
-    "Number": "74200-1",
+    "Numberz": "74200-1",
     "Description": "MISC. OFFICE REPAIRS",
     "Location": "VARIOUS LOCATIONS"
   },
   {
-    "Number": 74205,
+    "Numberz": 74205,
     "Description": "MAINTENANCE TO NASHVILLE OFFICES",
     "Location": "VARIOUS LOCATIONS"
   },
   {
-    "Number": 74250,
+    "Numberz": 74250,
     "Description": "COMPUTER MAINTENANCE",
     "Location": "VARIOUS LOCATIONS"
   },
   {
-    "Number": "80-001",
+    "Numberz": "80-001",
     "Description": "OVERHEAD CRANE",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "80-002",
+    "Numberz": "80-002",
     "Description": "OD GRINDER",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "80-005",
+    "Numberz": "80-005",
     "Description": "BAGHOUSE #1 ON GRINDER AT MACHINING CENTER (TORIT)",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "80-007",
+    "Numberz": "80-007",
     "Description": "BAGHOUSE #2 ON GRINDER AT MACHINING CENTER (TORIT)",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "80-008",
+    "Numberz": "80-008",
     "Description": "ROAMER ARM",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "80-009",
+    "Numberz": "80-009",
     "Description": "VERTICAL LATHE",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "80-010",
+    "Numberz": "80-010",
     "Description": "JIB CRANE AT OD GRINDER",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "80-500",
+    "Numberz": "80-500",
     "Description": "MISC. AT MACHINING CENTER",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "81-001",
+    "Numberz": "81-001",
     "Description": "BLANCHARD HORIZONTAL GRINDING MACHINE",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "81-003",
+    "Numberz": "81-003",
     "Description": "JIB CRANE AT VERTICAL LATHE",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "81-004",
+    "Numberz": "81-004",
     "Description": "2 TON CRANE AT BLANCHARD (WAS 28-012 & 29-075)",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "81-005",
+    "Numberz": "81-005",
     "Description": "MIST COLLECTOR IN MACHINING AREA",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "81-006",
+    "Numberz": "81-006",
     "Description": "NEW BLANCHARD GRINDER",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "81-500",
+    "Numberz": "81-500",
     "Description": "MISC. MACHINGING CENTER",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "81-7777",
+    "Numberz": "81-7777",
     "Description": "SAFETY FOR DEPT. 81",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "82-001",
+    "Numberz": "82-001",
     "Description": "SURFACE GRINDER (MATTISON GRINDER)",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "82-003",
+    "Numberz": "82-003",
     "Description": "SURFACE GRINDER (MATTISON)",
     "Location": "MACHINING CENTER"
   },
   {
-    "Number": "90-003",
+    "Numberz": "90-003",
     "Description": "DRILL PRESS",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-004",
+    "Numberz": "90-004",
     "Description": "BELT GRINDER",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-005",
+    "Numberz": "90-005",
     "Description": "CUT OFF MACHINE",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-006",
+    "Numberz": "90-006",
     "Description": "FLOOR STAND GRINDER",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-007",
+    "Numberz": "90-007",
     "Description": "BAGHOUSE",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-008",
+    "Numberz": "90-008",
     "Description": "TEST BALL MILL",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-009",
+    "Numberz": "90-009",
     "Description": "INDUCTION FURNACE",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-010",
+    "Numberz": "90-010",
     "Description": "HARDNESS TESTER",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-011",
+    "Numberz": "90-011",
     "Description": "HARDNESS TESTER",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-012",
+    "Numberz": "90-012",
     "Description": "TENSIL TESTER",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-013",
+    "Numberz": "90-013",
     "Description": "SANDER POLISHER",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-015",
+    "Numberz": "90-015",
     "Description": "CRANE",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-016",
+    "Numberz": "90-016",
     "Description": "ROOF FAN IN RESEARCH",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-017",
+    "Numberz": "90-017",
     "Description": "LARGE MAGNET",
     "Location": "Q.A. AREA"
   },
   {
-    "Number": "90-018",
+    "Numberz": "90-018",
     "Description": "HEAT TREAT FURNACE",
     "Location": "RESEARCH AREA"
   },
   {
-    "Number": "90-019",
+    "Numberz": "90-019",
     "Description": "TRAY MANIPULATOR",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-020",
+    "Numberz": "90-020",
     "Description": "LARGE RESEARCH HEAT THREAT FURNACE, BATCH",
     "Location": "RESEARCH   C2-D3"
   },
   {
-    "Number": "90-021",
+    "Numberz": "90-021",
     "Description": "MILLING MACHINE IN RESEARCH",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-022",
+    "Numberz": "90-022",
     "Description": "ROCK SHAKER MACHINE (GILSON TESTING SCREEN)",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-023",
+    "Numberz": "90-023",
     "Description": "NEW METAL LATHE (BAILEIGH)",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-500",
+    "Numberz": "90-500",
     "Description": "RESEARCH DEPT",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-7777",
+    "Numberz": "90-7777",
     "Description": "SAFETY",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-8888",
+    "Numberz": "90-8888",
     "Description": "MODIFICATION",
     "Location": "RESEARCH"
   },
   {
-    "Number": "90-9999",
+    "Numberz": "90-9999",
     "Description": "EMPLOYEE   ASSISTANCE",
     "Location": "RESEARCH"
   },
   {
-    "Number": "98-004",
+    "Numberz": "98-004",
     "Description": "PRESS",
     "Location": "CHAIN BLD."
   },
   {
-    "Number": "98-005",
+    "Numberz": "98-005",
     "Description": "GRINDER",
     "Location": "CHAIN BLD."
   },
   {
-    "Number": "98-008",
+    "Numberz": "98-008",
     "Description": "BALL SCALE, SHIPPING WAREHOUSE",
     "Location": "CHAIN BLD."
   },
   {
-    "Number": "98-010",
+    "Numberz": "98-010",
     "Description": "PLASMA CUTTER",
     "Location": "CHAIN BLD."
   },
   {
-    "Number": "98-7777",
+    "Numberz": "98-7777",
     "Description": "SAFETY",
     "Location": "CHAIN BLD."
   },
   {
-    "Number": "98-8888",
+    "Numberz": "98-8888",
     "Description": "MODIFICATION",
     "Location": "CHAIN BLD."
   },
   {
-    "Number": "98-9999",
+    "Numberz": "98-9999",
     "Description": "EMPLOYEE  ASSISTANCE",
     "Location": "CHAIN BLD."
   }

@@ -9,7 +9,7 @@ var fuseOptions = {
   maxPatternLength: 32,
   minMatchCharLength: 1,
   keys: [
-    {name:"Number"},
+    {name:"Numberz"},
     {name:"Description"},
     {name:"Location"},
   ]
@@ -27,7 +27,7 @@ if(searchQuery){
 
 
 function executeSearch(searchQuery){
-  $.getJSON( "/parts_list/data/parts_list.json", function( data ) {
+  $.getJSON( "/equipment_list/data/equipment_list.json", function( data ) {
     var pages = data;
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
@@ -67,7 +67,7 @@ function populateResults(result){
     //pull template from hugo templarte definition
     var templateDefinition = $('#search-result-template').html();
     //replace values
-    var output = render(templateDefinition,{key:key,BAAN:value.item.BAAN,SAP:value.item.SAP,MATERIAL_DESCRIPTION:value.item.MATERIAL_DESCRIPTION,PURCHASE_ORDER_TEXT:value.item.PURCHASE_ORDER_TEXT});
+    var output = render(templateDefinition,{key:key,Numberz:value.item.Numberz,Description:value.item.Description,Location:value.item.Location});
     $('#search-results').append(output);
 
     $.each(snippetHighlights,function(snipkey,snipvalue){
