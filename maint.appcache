@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#v0.15 2019-06-03 "Relative Paths FTW!"
+#v0.16 2019-06-03
 /thermocouple_identification/img/r.png
 /thermocouple_identification/img/e-iec.png
 /thermocouple_identification/img/j.png
@@ -49,3 +49,6 @@ CACHE MANIFEST
 css/style.css
 img/appicon.png
 index.html
+
+NETWORK:
+*
