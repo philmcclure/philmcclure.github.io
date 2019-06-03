@@ -1,5 +1,7 @@
 CACHE MANIFEST
 #v0.17 2019-06-03
+equipment_list/
+parts_list/
 css/style.css
 img/appicon.png
 index.html
