@@ -27,7 +27,7 @@ if(searchQuery){
 
 
 function executeSearch(searchQuery){
-  $.getJSON( "data/equipment_list.json", function( data ) {
+  $.getJSON( "equipment_list.json", function( data ) {
     var pages = data;
     var fuse = new Fuse(pages, fuseOptions);
     var result = fuse.search(searchQuery);
