@@ -1,0 +1,13 @@
+CACHE MANIFEST
+#v0.1 2019-06-03
+css/style.css
+data/parts_list.json
+img/appicon.png
+js/fuse.js
+js/jquery.js
+js/jquery.mark.js
+js/search.js
+index.html
+
+NETWORK:
+*
